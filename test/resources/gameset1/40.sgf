@@ -1,0 +1,154 @@
+(;GM[1]FF[4]SZ[19]ST[1]US[GoGoD]
+
+GC[Commentary by Wang Hongjun 7d]
+
+KM[3.75]RU[Chinese]
+
+PB[Zhou Heyang]
+
+PW[Qiu Jun]
+
+DT[2004-01-11]
+
+PC[Nanjing]
+
+RE[W+R]
+
+EV[16th Mingren Final]
+
+BR[9d]
+
+WR[6d]
+
+RO[Game 5]
+
+;B[pd];W[dd];B[pq];W[dp];B[fq];W[cn];B[dr];W[po]
+
+;B[qo];W[qn];B[qp];W[pn];B[op];W[pj];B[qh];W[cq];B[iq];W[jd]
+
+;B[cf];W[be];B[di];W[nc];B[fc];W[ec];B[fd];W[qc]
+
+C[White plays a quick-paced fuseki.]
+
+(;B[qd]
+
+C[If Black 27 blocks at 'a', White would play as in the >> variation, which is no good for Black.]
+
+;W[pc];B[od];W[oc];B[pl];W[pp]
+
+C[Good timing.]
+
+;B[qq];W[ql];B[qk]
+
+;W[pk];B[rl];W[qm];B[qj];W[pi];B[qi];W[ol];B[bf];W[eb]
+
+(;B[ef]
+
+C[Black 45 is a bit slow. Playing >> variation 'a'  is more efficient.
+
+];W[mp];B[cl];W[jq];B[ip];W[ir];B[hr];W[kr]
+
+C[White's tiger's mouth 48, 50 and 52 is good play. It creates two cutting points in Black's position, - A - and - B -.
+
+]LB[hq:B][oq:A]
+
+;B[eo]
+
+C[Black 53 is a bit slow. He could play  - A - to attack the white
+
+group. In this way Black could strengthen himself while attacking.
+
+]LB[cr:A]
+
+;W[oq];B[or];W[nq];B[em]
+
+C[Black 57 is again too slow. - A - is the key point for attacking White.
+
+]LB[cr:A]
+
+;W[cr]
+
+C[White 58 is very big. Because of the slow moves of 53 and 57
+
+{triangled}, White not only captured Black 13 {marked X}. but also
+
+got the big move - blocking here at 58. Since there is a thick
+
+white wall, it is unlikely that  Black will get much in the centre.
+
+White is ahead after this move.
+
+]TR[eo][em]
+
+MA[op]
+
+;B[nr];W[mr];B[lq];W[mq];B[jl]
+
+;W[jj];B[jp];W[ln]
+
+C[Perhaps White 66 at - A - is more efficient.
+
+]LB[hj:A]
+
+;B[bm];W[do]
+
+C[The aim of White 68 is to  emphasise Black's weaknesses. White can play 1 to 7 later.
+
+]LB[gq:7][dl:6][dm:5][gp:4][fp:3][fo:2][ep:1]
+
+;B[ij];W[ii];B[hj];W[jn];B[in]
+
+;W[jk];B[il];W[hi];B[ji];W[ig];B[fb];W[bc];B[ea];W[cb];B[gi]
+
+;W[gh];B[kl]
+
+C[Black 85 should protect the cut on the upper side at - A -. But
+
+in that case, white would play hane at 85, and Black is short of territory.
+
+]LB[ee:A]
+
+;W[ee];B[fe];W[ff];B[gf];W[fg];B[cd]
+
+C[Black 91 is a tesuji for escaping. but he will still lose a lot of territory.
+
+];W[df];B[eg]
+
+;W[dg];B[eh];W[ce];B[fh];W[ki];B[jh];W[ih];B[gg];W[kg];B[rc]
+
+;W[rb];B[ch];W[ep];B[fo];W[fp];B[gp];W[dm];B[dl];W[gq];B[hp]
+
+;W[fr];B[rd];W[ic];B[nd];W[md];B[me];W[le];B[ph];W[ro];B[rm]
+
+;W[rn];B[rr];W[mf];B[ne];W[gr];B[sb];W[lc]
+
+C[White did not give Black any chance in the endgame. 
+
+
+
+The three slow moves - 45, 53, 57 {marked} - are the main reason Black lost this game.
+
+]TR[ef][em][eo]
+
+;B[lm];W[mm];B[ml]
+
+;W[nm];B[bn];W[sq];B[sr];W[bo];B[kp];W[hq];B[hb];W[ib];B[ia]
+
+;W[ja];B[ha];W[jb];B[ng];W[af];B[bg];W[lo];B[qb];W[pb];B[kj]
+
+;W[kk];B[lj];W[lk];B[mk];W[kh];B[ik];W[jg];B[ll];W[ji];B[kq]
+
+;W[jr];B[mg];W[ra];B[lf];W[kf];B[lg];W[jo];B[io];W[ns];B[pr]
+
+;W[hc];B[fa];W[sm]
+
+C[Black resigned and so Qiu Jun became the new Mingren])
+
+(;B[de];W[cd];B[cl]
+
+C[This way Black gets the big point.]))
+
+(;B[pc];W[qd];B[pe];W[pb];B[ob];W[qb];B[oc];W[qf];B[pf]
+
+;W[rf];B[oh];W[nb]))
+

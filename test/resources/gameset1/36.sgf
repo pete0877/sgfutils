@@ -1,0 +1,178 @@
+(;
+
+GM[1]FF[4]SZ[19]
+
+ST[1]
+
+PB[Zhou Heyang]
+
+PW[Qiu Jun]
+
+DT[2004-01-04]
+
+PC[Nanjing]
+
+KM[3.75]
+
+RU[Chinese]
+
+RE[W+R]
+
+US[GoGoD]
+
+EV[16th Mingren Final]
+
+BR[9d]
+
+WR[6d]
+
+RO[Game 1]
+
+GC[Commentary by Wang Hongjun 7d]
+
+;B[pd];W[dd];B[pq];W[dq];B[do];W[co];B[fc]
+
+C[Black 7 is a new move. Exchanging - A - for - B - before 7 is normal. The aim of playing 7 directly is to keep the possibility
+
+of - C - open.
+
+]LB[dp:C][cp:B][cn:A]
+
+;W[dn]
+
+;B[cf];W[fd];B[gd];W[fe];B[dc];W[ec];B[eb];W[ed];B[gb];W[cc]
+
+;B[db];W[ge];B[hd];W[di];B[if]
+
+C[Black 23 is the key point of expanding the moyos for both Black
+
+and White. 
+
+];W[qf];B[nd];W[rd];B[qc];W[qi]
+
+;B[jq];W[qo];B[op];W[md]
+
+C[Playing White 32 before Black expands his moyo with - A - to - C - is good timing.
+
+]LB[pf:C][ph:A][qh:B]
+
+
+
+(;B[me]
+
+C[If Black hanes at >> 'a', White reduces Black's territory in sente,  but this result is acceptable for both sides and may
+
+be better than the game for Black.
+
+];W[nc]
+
+C[White 34 is a strong move.
+
+]
+
+(;B[mc]
+
+C[Forced - he cannot play 'a' >>...
+
+];W[ld];B[lc];W[kd];B[kc];W[jd];B[jc];W[ne];B[od]
+
+;W[mf];B[he];W[of]
+
+C[After 46, White is ahead.  He has successfully reduced Black's territory and  built thickness outside  at the same time.
+
+];B[eg];W[ce];B[bg];W[be];B[cj];W[pm];B[qp]
+
+;W[ro]
+
+C[White 54 is a bit slow, perhaps paying too much attention to the territory in the bottom 
+
+right corner. - C - is a big point at the moment, so it may be a better choice for 54 to exchange - A - for - B - then play
+
+- C -.
+
+]LB[mm:C][rq:B][rp:A]
+
+;B[cp];W[dp];B[eo];W[cn];B[fq];W[cq];B[nm]
+
+C[Because of the loss of White 54, Black got the chance to play 61. After this move, White has lost both the possibility of expanding
+
+his moyo and his leading position.
+
+];W[lm];B[nk]
+
+;W[lo];B[pj];W[pk]
+
+C[White 66 is a bit risky.]
+
+(;B[kn]
+
+C[If Black can play >> 'a', the fight will be complicated. If Black
+
+were to live, White could not afford the loss of territory.
+
+];W[ln];B[no];W[ok]
+
+C[Black chose a conservative way to play with  67 and 69 {marked}.
+
+After 70, White is ahead again. The try-on of 66 {also marked} has turned out to be a success.
+
+]TR[pk][no][kn]
+
+;B[kp];W[lk];B[nj];W[oj];B[lp]
+
+;W[ci];B[bi];W[dj];B[ck];W[bj];B[bk];W[bh];B[aj];W[cg];B[ah]
+
+;W[ch];B[bm];W[rq]
+
+C[White has made his group strong by attacking the black group
+
+on the left side. He can therefore leave the centre to play a
+
+big yose move. Because White is strong, Black cannot get much from attacking the centre white group.
+
+];B[gg];W[fh];B[fg];W[bf];B[rc];W[qr];B[pr]
+
+;W[ko];B[jo];W[jn];B[io];W[fp];B[gq];W[in];B[hn];W[hm]
+
+
+
+(;B[hi]
+
+C[If Black 105 is at 'a' >>...
+
+];W[jg];B[ih];W[ho];B[gn];W[hp];B[hq];W[fo];B[gm]
+
+;W[hl];B[en];W[ep];B[em];W[ip];B[jp];W[ps];B[ag];W[ef];B[jl]
+
+;W[km];B[os];W[qs];B[nr];W[kj];B[rp];W[sp];B[qq];W[rr];B[pn]
+
+;W[qn];B[qm];W[ql];B[om];W[pl];B[cb];W[bc];B[jk]
+
+C[Black 141 was a mistake in reading.
+
+];W[ij]
+
+C[The two black stones cannot escape. Black has lost.
+
+];B[er]
+
+;W[bp];B[bn];W[bo]
+
+C[Black resigned after White 146.])
+
+(;B[gn];W[hg];B[hf];W[gf]
+
+C[Now the black centre group is in danger.]))
+
+(;B[qj];W[oj];B[ok];W[qk];B[pi]))
+
+(;B[ld]
+
+C[Black cannot play this way otherwise he will lack territory, since White can live.
+
+];W[mc];B[od];W[lc];B[kd];W[pb];B[qb];W[pc];B[qd]
+
+;W[jb]))
+
+(;B[mc];W[lc];B[ld];W[me];B[nc]))
+

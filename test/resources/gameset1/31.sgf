@@ -1,0 +1,232 @@
+(;
+
+GM[1]FF[4]VW[]AP[Many Faces of Go:10.0]
+
+SZ[19]
+
+HA[0]
+
+ST[1]
+
+PB[Li Kang]
+
+PW[Liu Jing]
+
+DT[2003-12-09]
+
+KM[3.0]
+
+RU[Chinese]
+
+RE[B+2.75]
+
+US[GoGoD]
+
+EV[4th Ricoh Cup]
+
+GC[Commentary by Wang Hongjun 7d]
+
+BR[4d]
+
+WR[8d]
+
+RO[Round 2]
+
+;B[pd];W[dd];B[pq];W[dp];B[fq];W[hq];B[fo];W[cn]
+
+;B[ip];W[eq];B[fr];W[pn];B[qo];W[qj]
+
+C[When White leaves the joseki unfinished then plays 14, the theory
+
+is to play in a flexible way and to avoid make fixed shapes too
+
+quickly.
+
+];B[ql];W[qg];B[ph];W[qh]
+
+;B[pj]
+
+C[Black 19 uses the marked stones to build influence.
+
+]TR[ql][ph]
+
+;W[po];B[qn]
+
+C[Black 21 is passive. A play at < A > seems to attack White more
+
+effectively.
+
+]LB[pp:A]
+
+;W[pp];B[qp];W[oq];B[mq];W[mp];B[pr];W[lq]
+
+;B[nq];W[np];B[or];W[hp]
+
+(;B[cq]
+
+C[Black turns to invade the corner. Variation >> 'a' does not do
+
+much for him.
+
+];W[er];B[ep];W[dq];B[do];W[cp];B[co];W[bo];B[dn]
+
+;W[cm];B[dm];W[dl];B[lp]
+
+C[Black 45 starts complicated fighting. Since Black 
+
+has given up the corner to make his group more thicker than before,
+
+he must start some fighting to get territory  back from elsewhere.
+
+];W[io];B[kp];W[el];B[fm];W[jp];B[kn]
+
+;W[gk];B[hm];W[jn];B[jm];W[im];B[il];W[in];B[jl];W[hl];B[hn]
+
+;W[kq]
+
+C[White 62 is a good move.
+
+]
+
+(;B[ko]
+
+C[Black at variation >> 'a' favours White.
+
+];W[ho];B[fl];W[fk];B[gl];W[hk];B[gn]
+
+C[White lives in sente. This result  is good for him.
+
+];W[nj];B[kk]
+
+;W[pk];B[cl];W[bq];B[bl];W[bm];B[am];W[bn];B[cj];W[di];B[dj]
+
+;W[ej];B[ci];W[dh];B[ch];W[dg];B[cf];W[nc];B[pb];W[jd];B[qe]
+
+;W[qk];B[ir];W[hr];B[kr];W[lr];B[jq];W[iq];B[jr];W[nr];B[op]
+
+;W[mr];B[oq];W[is];B[fc];W[df];B[ce];W[ec];B[hc];W[ic];B[eb]
+
+;W[fd];B[gd];W[fb];B[gb]
+
+C[Black 115 is going to use the ko threats on the lower side to
+
+fight the ko .
+
+];W[gc];B[jo];W[fc];B[ip]
+
+C[There is a ko on the lower side, but White has built a big moyo
+
+on the upper side. How much profit White can get from the ko
+
+has become the issue  which decides the result of the game.
+
+];W[gp];B[fp]
+
+;W[jp];B[es];W[ds];B[fs];W[jj];B[ip];W[cg]
+
+C[Because White does not have enough ko threats, 
+
+maybe this is not the right time to fight the ko. It may be better
+
+to play < A > to extend his moyo. 
+
+]LB[ne:A]
+
+;B[bg];W[jp];B[ne]
+
+;W[me];B[ip];W[nf];B[mj];W[jp];B[nk];W[ck];B[bk];W[js];B[ip]
+
+;W[bh];B[bf];W[jp];B[cr];W[dr];B[ip];W[dk];B[bj];W[jp];B[bp]
+
+;W[ap];B[ip];W[re];B[rd];W[jp];B[cs];W[bp];B[ip];W[qc];B[jp]
+
+;W[pc]
+
+C[The ko threat was smaller than what White 
+
+lost, but he could not find any bigger threat.
+
+];B[oc];W[od];B[ob];W[qd]
+
+(;B[pe]
+
+C[Black 167 is too greedy.  If he plays variation >> 'a', he will
+
+live easily.
+
+];W[rc];B[nd];W[md];B[oe];W[mc];B[rf];W[sd];B[qf]
+
+;W[of];B[sf];W[se];B[rb];W[qb];B[qa];W[pf];B[ra];W[sb];B[pa]
+
+;W[nb];B[sa];W[rg];B[sc];W[mi];B[rd];W[lj]
+
+C[The game is close after the ko fight. 
+
+];B[mk];W[pl];B[ni]
+
+;W[li];B[oj];W[qm];B[cc];W[nn];B[mm];W[cd];B[bd];W[cb];B[de]
+
+;W[ee];B[dc];W[db];B[ed];W[rn];B[ro];W[dd];B[mh];W[mg];B[lh]
+
+;W[nh];B[kj];W[ki];B[ji];W[jk];B[kh];W[kl];B[lk];W[km]
+
+C[A big change comes when the game is nearly finished. 
+
+];B[ks]
+
+;W[ih]
+
+C[The game is still close.
+
+];B[jg];W[ig];B[ii];W[jf];B[kf];W[ke]
+
+C[232 is better at < A > which is bigger. If White plays < A >,
+
+the game is still close.
+
+]LB[hi:A]
+
+;B[gi];W[gh];B[fi]
+
+;W[hi];B[hj];W[hh];B[ij];W[ik];B[gj];W[fh];B[ei];W[jl];B[eh]
+
+;W[fg]
+
+C[White lost too much territory in the centre. Black is winning.
+
+];B[oo];W[on];B[bb];W[ba];B[rm];W[rl];B[sn];W[ab];B[bc]
+
+;W[mn];B[hs];W[sg];B[lf];W[an];B[qi];W[ri];B[pi];W[pg];B[al]
+
+;W[oh];B[mf];W[ng];B[nm];W[om];B[eg];W[ef];B[na];W[ma];B[le]
+
+;W[ld];B[em];W[ek];B[jh];W[lg];B[kg];W[ok];B[oi];W[sl];B[sm]
+
+;W[ln];B[no];W[mo];B[nl];W[ll];B[ac];W[ca];B[aa];W[ea];B[ml]
+
+;W[oa]
+
+C[Black won by 2.75 zi.
+
+])
+
+(;B[rc];W[pe];B[qb];W[qf];B[nb]))
+
+(;B[jq];W[iq];B[jr];W[ko];B[lo];W[ln];B[jo];W[mr];B[ip]
+
+;W[nr];B[ho]
+
+C[Black has no ko threats and so cannot fight the ko. He also has
+
+to capture at the end. So the result favours White.
+
+]))
+
+(;B[ho];W[iq];B[jp];W[jq];B[kp];W[lp]
+
+C[Black's marked stones don't seem to offer any benefit.
+
+]TR[kp][jp][ip]
+
+))
+

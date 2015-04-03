@@ -1,0 +1,224 @@
+(;GM[1]FF[4]SZ[19]ST[1]
+
+PB[Wang Xi]
+
+PW[Liu Xing]
+
+DT[2004-02-03]
+
+PC[Zhongguo Qiyuan, Beijing]
+
+KM[3.75]
+
+RU[Chinese]
+
+RE[B+0.75]
+
+US[GoGoD]
+
+EV[11th Xinren Wang]
+
+GC[Commentary by Wang Hongjun 7d]
+
+BR[4d]
+
+WR[6d]
+
+RO[Semi-final]
+
+;B[pd];W[dc];B[pq];W[dp];B[fq];W[dn];B[ci];W[ck]
+
+;B[ce];W[fd];B[hc];W[cg]
+
+(;B[bg]
+
+C[For Black 13 the >> variation with the kosumi may be better.
+
+];W[bh];B[ch];W[bf];B[dg];W[cf];B[df];W[de];B[be]
+
+;W[ag];B[ae];W[af];B[dd];W[ee];B[cc];W[ed];B[cd];W[bi];B[db]
+
+;W[eh];B[ec]
+
+C[The result of the fight in the upper left corner favours White.
+
+Once White played 14 {marked}, there 
+
+was almost no variability in  the sequence to 33. so Black 13
+
+should have been the marked kosumi, as pointed out before.
+
+]TR[df][bh]
+
+;W[eq]
+
+;B[jp];W[fp];B[qk];W[lo];B[lq];W[oo]
+
+C[Probably White felt he was ahead when he played 38 and 40. But
+
+38 {marked} and 40 are too easy going. He lost a lot on territory.
+
+]TR[lo]
+
+;B[po]
+
+;W[pn];B[on];W[pp];B[qo];W[no];B[qp];W[om];B[fg];W[eg];B[nn]
+
+;W[mm];B[pm];W[mn];B[qn];W[in]
+
+C[Because the ladder favoured Black, White gave 
+
+up the stone at - A -.  As White has thus given up a lot of territory
+
+in the bottom right corner, he now has to build something in
+
+the centre to compete territorially with Black. But with Black
+
+1 to 3 being sente, it is quite difficult for White to manage
+
+the centre.
+
+]LB[pn:A][gi:3][fi:2][fh:1]
+
+;B[hp];W[he];B[fh];W[fi];B[gi]
+
+;W[ff];B[jn];W[jm];B[im]
+
+C[Black 63 {marked} and 65 were unnecessary. Simply atari at -A -, forcing connection at - B -, then playing - C - is the effective way to reduce White's moyo.]
+
+LB[jj:C][ei:B][fj:A]
+
+TR[jn]
+
+;W[jo];B[kn];W[km];B[ko];W[hn];B[gp]
+
+(;W[fn]
+
+C[White 72 seems slow as it does not build secure territory. Better is >> variation 'a'...
+
+];B[fo];W[eo];B[ep];W[kp];B[io];W[fp];B[lp];W[il]
+
+;B[ll];W[kk];B[ki];W[ln];B[kq];W[mj];B[mi];W[ni];B[mh];W[nj]
+
+;B[nh];W[nc];B[nd];W[qc];B[oc];W[qd];B[qf];W[re];B[rf];W[qe]
+
+(;B[pe]
+
+C[Black 101 is small. It should be >> variation 'a' to reduce
+
+White's territory - this is the most urgent place on the board.]
+
+;W[ob];B[nb];W[pb];B[mc];W[ii]
+
+C[Having settled the corner in sente, White gets the big move 106 - he is ahead.]
+
+;B[ig];W[hg];B[ie]
+
+(;W[ih]
+
+C[White 110 should have played at >> variation 'a' to get inside Black's territory..
+
+];B[jg]
+
+C[The territories of both sides are close.
+
+];W[hd];B[id];W[fr];B[ep];W[dr];B[jj];W[ij]
+
+;B[jk];W[jl];B[ik];W[hk];B[hj];W[gk];B[hh];W[hi];B[nm];W[ol]
+
+;B[se];W[sd];B[sf];W[nl]
+
+C[There is a approach-move ko in the upper right  corner, but because
+
+White is behind, he decided to play a big yose move.
+
+];B[rb];W[rc];B[sb];W[sc];B[qb];W[pc]
+
+;B[pa];W[oa];B[ra];W[qa];B[cq];W[fp];B[pa];W[gq];B[na];W[qa]
+
+;B[ah];W[ai];B[pa];W[if];B[jf];W[qa];B[lm];W[pn];B[pa];W[pl]
+
+;B[rd];W[rm]
+
+C[Black wins the ko, but as he has played the marked stones as
+
+his payment for the winning it, the game is now close.
+
+]TR[cq][lm]
+
+;B[op];W[gc];B[qm];W[ql];B[rk];W[rl];B[pi];W[sp]
+
+;B[sq]
+
+C[Black 169 should have been played at - A -. 
+
+]LB[sn:A]
+
+;W[pj];B[qi];W[rq];B[rp];W[sr];B[so]
+
+C[White has aji to live in the corner.
+
+];W[sn]
+
+C[White chooses to fight the ko.
+
+];B[sq];W[hb]
+
+;B[ic];W[sp];B[hl];W[hm];B[sq];W[ib];B[np]
+
+C[Black 185 eliminates the possibility of White living by means
+
+of the ko.
+
+];W[sp];B[ro];W[qq]
+
+;B[lk];W[lj];B[kj];W[on];B[kl];W[gl];B[pr];W[kc];B[fb];W[gb]
+
+;B[hr]
+
+C[Once Black gets the chance to play 199, he is slightly ahead,
+
+and he keeps the lead successfully to the end.
+
+];W[oi];B[oh];W[ld];B[hf];W[gh];B[kb];W[jb];B[lb];W[jc]
+
+;B[me];W[li];B[lh];W[ke];B[ge];W[gd];B[gf];W[gg];B[kf];W[hq]
+
+;B[iq];W[gr];B[ir];W[sk];B[rj];W[le];B[lf];W[go];B[pk];W[sl]
+
+;B[ga];W[sj];B[si];W[mp];B[mq];W[jh];B[kh];W[hs];B[is];W[gs]
+
+;B[ja];W[ho];B[ip];W[jd];B[pp];W[rn];B[mo];W[ha];B[fa];W[mp]
+
+;B[ok];W[oj];B[qj];W[ml];B[fc];W[md];B[lc];W[je];B[if];W[gj]
+
+;B[kk];W[mk];B[ka];W[ji];B[ia];W[fe];B[nk];W[mo]
+
+C[Black won by 0.75 zi
+
+])
+
+(;W[id];B[hf];W[hd]
+
+C[Though White would lose some territory in the centre, his gain
+
+would be more than his loss. White could have kept his lead if
+
+he had played this way
+
+]))
+
+(;B[fj];W[ei];B[ij]))
+
+(;W[fr];B[il];W[gm]))
+
+(;B[df];W[dh];B[cc];W[cb];B[dd];W[ec];B[bc]
+
+C[Compare this with the result of the game. Black  gets his group
+
+settled while attacking the white group with the marked stone.
+
+]TR[hc]
+
+))
+

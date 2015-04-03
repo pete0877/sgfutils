@@ -1,0 +1,150 @@
+(;GM[1]FF[4]SZ[19]ST[1]US[GoGoD]
+
+GC[Commentary by Wang Hongjun 7d]
+
+PB[Hu Yaoyu]
+
+PW[Shao Weigang]
+
+DT[2004-02-07]
+
+PC[Zhongguo Qiyuan, Beijing]
+
+KM[3.75]
+
+RU[Chinese]
+
+RE[B+R]
+
+US[GoGoD]
+
+EV[2nd Yongda Cup (King of Kings) Final]
+
+GC[Commentary by Wang Hongjun 7d]
+
+BR[7d]
+
+WR[9d]
+
+RO[Game 1]
+
+;B[pd];W[dd];B[qp];W[dq];B[do];W[co];B[cn];W[cp]
+
+;B[cf];W[fc];B[dn];W[fq];B[dj];W[oq];B[op];W[np];B[oo];W[pq]
+
+;B[qq];W[no]
+
+C[White plays this, and then 22, with the aim of getting sente.
+
+];B[nn];W[lq];B[mn]
+
+C[Black 23 is a move which surveys the whole board.
+
+];W[qj];B[ql];W[qf]
+
+C[White 26 simply as the two-space extension - A - may be a better choice. If Black plays - B -, 
+
+White will play - C - to strengthen his two stones. In addition, - C - reduces Black's influence in the centre.]
+
+LB[og:c][qe:b][qg:a]
+
+;B[qh]
+
+C[Black 27 is the right choice in this situation.]
+
+(;W[rh]
+
+C[If >> 'a' instead ...
+
+];B[rg];W[qg];B[ri];W[rf];B[qi];W[qd];B[qc];W[pc]
+
+;B[oc];W[pb];B[pe];W[rd];B[og]
+
+C[Up to here, White has achieved territory. but looking at the whole board,  Black has built a big moyo in the centre.  Black has played the opening more successfully.
+
+];W[jd];B[jf];W[kj];B[ij];W[kh]
+
+;B[lf];W[nh];B[oh];W[ih]
+
+C[White 50 is the losing move. He must play - A -.  After White 50, there is a weak point at - B -.]
+
+LB[ji:b][ii:a]
+
+;B[hf];W[hd]
+
+C[White probably had to play - A - to protect against the cut.]
+
+LB[ii:a]
+
+;B[ji]
+
+C[The attack of Black 53 is very severe.]
+
+;W[jh];B[ki];W[li]
+
+;B[lh];W[lg];B[mh];W[mg];B[mi];W[ni];B[lj];W[mj];B[li];W[ng]
+
+;B[kg]
+
+C[53 {marked} to 67 were almost  a one-way street. Black is ahead once the three white stones have been cut off.]
+
+TR[ji]
+
+;W[me];B[le];W[of];B[md];W[oi];B[pj];W[ph];B[ef];W[gf]
+
+;B[gg];W[hg]
+
+C[White is trying to stir up trouble.
+
+];B[hh];W[fg];B[ig];W[gh];B[hi];W[hg];B[bd];W[cc]
+
+;B[gg];W[he];B[eg];W[hg];B[if];W[bn];B[bm];W[bo];B[cl];W[go]
+
+;B[jq]
+
+C[Despite White 76 {marked}, Black hasn't given White any chances. The invasion at 97 is big. Black is still ahead.]
+
+TR[gf]
+
+;W[qr];B[rr];W[pr];B[hq];W[ip];B[jp];W[pp];B[qo];W[hp]
+
+;B[kr];W[po];B[on];W[pn];B[qm];W[lr];B[gq];W[fp];B[ko];W[pm]
+
+;B[pl];W[bc]
+
+C[Because he is short of territory. White 118 skips from the lower right corner to play the biggest endgame move.
+
+];B[qb];W[ob];B[nc];W[nb];B[mb];W[rb];B[kb];W[jb]
+
+;B[hn];W[fn];B[na];W[rc];B[mr]
+
+C[Black 131 is good move, a vital attack on the weak white group.]
+
+(;W[ls]
+
+C[White can live with >> 'a' but ...
+
+];B[nr];W[nq];B[lp];W[mp];B[ms];W[lo];B[kp];W[qs]
+
+;B[os];W[ln];B[nl];W[mo];B[km];W[qn];B[rn];W[rm];B[so];W[ml]
+
+;B[nk];W[rl];B[rk];W[rs];B[rq];W[ro];B[rp];W[kn];B[jn];W[jm]
+
+;B[im];W[kl];B[jl];W[lm];B[lk]
+
+C[White's group is dead. He now resigned.])
+
+(;W[nr];B[mq];W[mp];B[ls];W[ms];B[ns];W[os];B[lp];W[qs]
+
+C[White has lived but Black captures two white stones in sente, and White is still short of territory.
+
+]))
+
+(;W[of];B[nc];W[pi];B[ph];W[oh];B[oi]
+
+C[ The purpose of Black's play is to give up the marked stone to build thickness outside.
+
+]TR[qh]
+
+))
+

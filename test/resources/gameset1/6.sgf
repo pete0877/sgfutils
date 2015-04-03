@@ -1,0 +1,124 @@
+(;GM[1]FF[4]US[GoGoD]SZ[19]ST[1]
+
+OH[(B)-B-W]
+
+PB[Nozawa Chikucho]
+
+PW[Iwasa Kei]
+
+DT[1904-11-12]
+
+KM[0]
+
+GC[Commentary by Honinbo Shuei]
+
+BR[3d]
+
+WR[4d]
+
+RE[Jigo {moves after 249 not known}]
+
+;B[cp];W[qp];B[eq];W[cd];B[oc];W[qd];B[oq];W[pe]
+
+;B[ec];W[lc];B[nd];W[ic];B[cc];W[bc];B[dd];W[ce];B[cb];W[ch]
+
+;B[qb];W[kq];B[ph];W[ne];B[md];W[pq];B[op];W[pn];B[ko]
+
+C[Although Black 27 is a standard shape, it is better in this position first to attack White by playing - A - and then wait for an opportunity to move out.]
+
+LB[qf:A]
+
+;W[ip];B[lq];W[lp];B[kp]
+
+C[The order of moves for Black 31 is wrong. Playing at - A - goes with the grain, to make White connect at - B -, and then 31 becomes appropriate. Otherwise, when he later comes to play - A -, White may sacrifice one stone and lightly pull back to - C -.]
+
+LB[pp:A][qq:B][qo:C]
+
+;W[mq];B[lr];W[mr];B[mp];W[lo];B[kr];W[jq]
+
+;B[jr];W[ir];B[hq];W[iq];B[nr];W[mo];B[np];W[nn];B[pp];W[qo];B[qq];W[rq];B[pr];W[kn]
+
+C[Neglecting the big point at - A - and striking at the head of two mediocre stones is, for a White player {in a no-komi game}, rather slack.]
+
+LB[qj:A]
+
+;B[qf];W[pf];B[pg];W[ng];B[qk];W[cn];B[di];W[ci];B[dk];W[bp];B[cq]
+
+C[It would have been better to defend at - A - with Black 63.]
+
+LB[bq:A]
+
+;W[en];B[gl];W[fp];B[cj];W[eg];B[fi];W[fq];B[bo];W[mb];B[ld];W[kc]
+
+C[White 74 is not very good. In this case, if we ask which is more urgent, left or right, the white group in the corner has still not made a live shape, and so he ought to have known that it is essential to secure life by first attaching at - A -.]
+
+LB[pb:A]
+
+;B[lg]
+
+C[Black 75 is bad style. Peeping at - A - would have been best.]
+
+LB[mf:A]
+
+;W[rf];B[rg];W[qe];B[qg];W[od]
+
+C[I do not know what White 80 is trying to achieve, but it is most certainly a meaningless and exceedingly bad move. In this case, too, he should play - A -.]
+
+LB[pb:A]
+
+;B[nb];W[rb];B[je]
+
+C[Black 83 is bad. White has neglected to play - A -, so Black's tactic should be to take this vital point first and see how White responds.]
+
+LB[pb:A]
+
+;W[bn];B[co];W[el];B[ek];W[er];B[dr];W[ep];B[hb];W[hc];B[gb];W[he];B[mf]
+
+C[Black 95 is very slack. When he ought to have peeped earlier he didn't, but played 75 {triangled} in bad style. Now, he does not attack the group that he ought to attack but peeps at 95 - how slow and slack! The safest policy is to take up an attacking posture by attaching immediately at - A -.]
+
+TR[lg]LB[hf:A]
+
+;W[pb];B[pc];W[qc];B[hf];W[mc];B[nc];W[ib];B[bb];W[gf];B[hg];W[gg];B[gh];W[fb];B[fc];W[gc];B[eb];W[dq];B[an];W[ie];B[if];W[am];B[ao];W[cl]
+
+C[Like White 80 {marked} before, this too is better not played.
+
+Of course, it may have some meaning, but to players off the board it was completely meaningless.]
+
+TR[od]
+
+;B[bj];W[hh];B[jg];W[hk];B[gk];W[ok];B[rl]
+
+C[Black 125 is surely a very bad move. Black has probably played this way because he is convinced that the position favours him, and because he is expecting to solidify his own territory to the utmost. However, since there is no way for White to launch an attack on this territory immediately, Black should leave it be. White, meanwhile, builds a base and proceeds with a plan of overrunning the open centre while approaching Black. Had Black occupied point - A -, his advantage would have been assured, and not doing so must be accounted a mistake.
+
+
+
+Hereafter, both Black and White made some mistakes, but there is nothing worthy of special comment. Seeing that the final result was a tie, Black must definitely have had regrets.]
+
+LB[jk:A]
+
+;W[ih];B[ki];W[hl];B[gm];W[hm];B[nf]
+
+;W[eh];B[bm];W[cm];B[al];W[gn];B[jj];W[gj];B[fj];W[ij];B[mk]
+
+;W[pk];B[pl];W[ol];B[ni];W[qj];B[rj];W[pm];B[ql];W[cr];B[br]
+
+;W[rr];B[cs];W[oi];B[oh];W[bl];B[am];W[fm];B[gi];W[hj];B[fk]
+
+;W[bd];B[rn];W[kk];B[jk];W[kl];B[jl];W[jm];B[ro];W[rp];B[pj]
+
+;W[ml];B[nj];W[bi];B[dh];W[dg];B[ai];W[ei];B[dj];W[bg];B[ag]
+
+;W[af];B[ah];W[jd];B[oj];W[lk];B[nl];W[nm];B[nk];W[om];B[lj]
+
+;W[jh];B[kh];W[of];B[og];W[re];B[ac];W[js];B[ms];W[ke];B[jf]
+
+;W[kd];B[qr];W[qm];B[rm];W[qs];B[ps];W[rs];B[do];W[eo];B[il]
+
+;W[im];B[hi];W[ii];B[de];W[bf];B[df];W[ad];B[fe];W[ge];B[cf]
+
+;W[cg];B[ab];W[kf];B[kg];W[ef];B[po];W[qn];B[es];W[fs];B[dp]
+
+;W[ee];B[ed];W[gd];B[fd];W[ha];B[fa];W[sg];B[sh];W[sf];B[dl]
+
+;W[em];B[sp];W[sq];B[so];W[ma];B[pa];W[qa];B[oa])
+

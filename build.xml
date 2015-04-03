@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+
+<project name="sgfutils" basedir="." default="usage" >
+
+  <property name="dist.jar" value="sgfutils.jar" />
+  <property name="src.dir" value="./src" />
+  <property name="test.dir" value="./test" />
+  <property name="build.dir" value="./bin" />
+  <property name="dist.dir" value="./dist" />
+  <property name="local.libs.dir" value="./libs" />
+  <property name="javadoc.dir" value="./javadoc" />
+
+  <property name="latest.gobaduchicommon.jar.path" value="../gobaduchicommon/dist" />
+
+  <fileset id="local.libs" dir="${local.libs.dir}" />
+
+  <path id="master-classpath">
+    <fileset refid="local.libs"/>
+    <pathelement path="${build.dir}" />
+  </path>
+
+  <target name="usage">
+    <echo>
+      Following are the available ant targets:
+
+      ant clean             - removes the files from under ./bin and the output jar from under ./dist
+      ant compile-source    - builds the source files into ./bin
+      ant dist              - takes files from ./bin and creates the main distributable jar under ./dist       
+      ant compile-test      - compiles junit the test classes into ./bin
+      ant run-test          - runs the junit classes from under ./bin 
+      ant javadoc           - regenerates javadoc into ./javadoc
+
+    </echo>
+  </target>
+
+  <target name="clean">
+    <delete dir="${build.dir}" />
+    <delete dir="${javadoc.dir}" />
+    <delete file="${dist.dir}/${dist.jar}" />
+  </target>
+
+  <target name="compile-source" depends="clean">
+    <mkdir dir="${build.dir}" />
+    <javac destdir="${build.dir}" optimize="false" failonerror="true">
+      <src path="${src.dir}" />
+      <classpath refid="master-classpath" />
+    </javac>
+    <copy todir="${build.dir}">
+      <fileset dir="${src.dir}/resources" />
+    </copy>
+  </target>
+
+  <target name="dist" depends="compile-source">
+    <jar destfile="${dist.dir}/${dist.jar}" basedir="${build.dir}"/>
+  </target>
+
+  <target name="compile-test" depends="compile-source">
+    <javac destdir="${build.dir}" optimize="false" failonerror="true">
+      <src path="${test.dir}" />
+      <classpath refid="master-classpath" />
+    </javac>
+  </target>
+
+  <target name="run-test" depends="compile-test">
+    <junit printsummary="yes" haltonfailure="yes">
+      <formatter type="xml"/>
+      <classpath refid="master-classpath"/>
+      <batchtest fork="yes" todir=".">
+        <fileset dir="${test.dir}">
+          <include name="**/*Test*.java"/>
+        </fileset>
+      </batchtest>
+    </junit>
+  </target>
+
+  <target name="javadoc">
+    <delete dir="${javadoc.dir}"/>
+    <mkdir dir="${javadoc.dir}"/>
+    <javadoc
+       classpathref="master-classpath"
+       destdir="${javadoc.dir}"
+       author="true"
+       version="true"
+       use="true"
+       notree="false"
+       noindex="false"
+       splitindex="true"
+       verbose="false"
+       windowtitle="SGF Utils Library API">
+      <packageset dir="${src.dir}" defaultexcludes="yes">
+        <include name="com/gobaduchi/**"/>
+      </packageset>
+      <doctitle><![CDATA[<h1> SGF Utils Library API </h1>]]></doctitle>
+      <bottom><![CDATA[<i> DISTRIBUTED UNDER GNU GENERAL PUBLIC LICENSE VERSION 3 </i>]]></bottom>
+    </javadoc>
+  </target>
+
+
+  <target name="get-dept">
+    <copy todir="${local.libs.dir}" preservelastmodified="true">
+      <fileset dir="${latest.gobaduchicommon.jar.path}">
+	<include name="gobaduchicommon.jar" />
+      </fileset>
+    </copy>
+  </target>
+
+
+</project>
+

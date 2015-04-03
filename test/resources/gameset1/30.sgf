@@ -1,0 +1,132 @@
+(;
+
+GM[1]FF[4]SZ[19]ST[1]
+
+PB[Yang Yi]
+
+PW[Xie He]
+
+DT[2003-12-09]
+
+KM[3.75]
+
+RU[Chinese]
+
+RE[W+R]
+
+US[GoGoD]
+
+EV[4th Ricoh Cup]
+
+GC[Commentary by Wang Hongjun 7d]
+
+BR[5d]
+
+WR[5d]
+
+RO[Round 2]
+
+;B[pd];W[dd];B[qp];W[np];B[oq];W[dp];B[op];W[no]
+
+;B[mr];W[qf];B[nc];W[rd];B[qh];W[ph]
+
+(;B[qi]
+
+C[Variation >> a is better so as to play on the top.
+
+];W[pg];B[qc];W[pk]
+
+C[White 18 is a good move. Black is pressed into a low position.
+
+];B[qk];W[pl];B[ql];W[pm];B[qm]
+
+;W[pi]
+
+C[After 24, White has got a thick wall and Black's 
+
+position on the right side is low. White has played the opening
+
+successfully. Black should have played at 24 on move 15, as pointed
+
+out before -  the result would be better than the game.
+
+];B[cf];W[fd];B[cj];W[lc];B[rc];W[ch];B[bh];W[nb];B[ob]
+
+;W[bi];B[ci];W[bg];B[dh];W[cg];B[dg];W[df];B[bf];W[ah];B[cd]
+
+;W[de];B[cc];W[ck];B[fg];W[bj];B[eb];W[fi]
+
+(;B[hg]
+
+C[Variation >> a is better...
+
+];W[he];B[jg];W[je]
+
+C[Although Black's last two moves were sente, he still cannot run out at 1. If he does so, White would 
+
+play 2, and there will be two weak points, A and B.  This is why kosumi for Black 51 {marked} was better shape.
+
+]LB[ej:1][fh:2][gg:B][eg:A]
+
+TR[hg]
+
+;B[hi];W[fh];B[hk];W[dq];B[fl]
+
+;W[eg];B[hm];W[em]
+
+C[White has achieved a lot of territory from attacking. He is ahead.
+
+];B[pn];W[on];B[pj];W[oj];B[qj];W[nk];B[oo]
+
+;W[hq];B[ni];W[oi]
+
+(;B[jq]
+
+C[Black 73 is too small. He lost a very good chance to attack White.
+
+It is better to play variation >> 'a'...]
+
+;W[nn];B[el];W[dl];B[hp];W[gq];B[gp];W[kl];B[eo]
+
+;W[do];B[gb];W[ji];B[iq];W[fp];B[fo];W[ep];B[hr];W[gr];B[jc]
+
+C[Because Black is behind in territory, he chooses to play a big yose move.]
+
+;W[il];B[hl];W[ip]
+
+C[White starts to attack Black's weaknesses.]
+
+;B[ho];W[jp];B[jn];W[kq];B[kr];W[lq];B[lr]
+
+;W[hs];B[ir];W[is];B[jr];W[fm];B[jj];W[kj];B[jk];W[kk];B[jl]
+
+;W[km];B[ej];W[fj];B[fk];W[di];B[jh];W[ki];B[ii];W[jm];B[im]
+
+;W[gj];B[hj];W[ko];B[ng];W[le];B[md];W[ld];B[hc];W[af];B[be]
+
+;W[mb];B[kb];W[ne];B[lg];W[mh];B[lh];W[nh];B[li];W[mg];B[mf]
+
+;W[me];B[mi];W[oh];B[mk];W[ml];B[rf];W[re];B[rg];W[qe];B[nd]
+
+;W[gn];B[hn];W[gg]
+
+C[White played very well while attacking. He built up some points
+
+in the centre and left Black's huge group with only two eyes.
+
+After 154, Black has no chance of winning.
+
+];B[go];W[hh];B[ih];W[gh]
+
+C[Black resigned.])
+
+(;B[om];W[nn];B[nl];W[ok];B[ml]
+
+C[White is separated into two weak groups. Black would get the
+
+initiative back if he played this way.]))
+
+(;B[gf];W[hd];B[gc];W[gd];B[if];W[jd];B[ej]))
+
+(;B[pi];W[oh];B[kc]))
+

@@ -1,0 +1,89 @@
+(;GM[1]FF[4]ST[1]SZ[19]GC[Comments by Wang Honjun 7d]
+
+EV[6th China Agon-Kiriyama Cup Final]DT[2004-10-30]PC[Yanqing, Beijing]PB[Zhou Heyang]
+
+BR[9d]PW[Shao Weigang]WR[9d]KM[3.25]RE[B+R]
+
+;B[qd];W[dd];B[pq];W[dp];B[fc];W[hc];B[oc];W[fd];B[ed];W[ec];B[ee];W[fe];B[dc];W[eb]
+
+;B[ff];W[gf];B[ef];W[cc];B[gg];W[hf];B[hg];W[if];B[ig];W[jf];B[jg];W[kf]C[This variation has become popular recently.]
+
+;B[cn];W[dk]
+
+(;B[en]C[This is Black's only choice. It woul be in the wrong direction if Black were to invade at the 3-3 point. See the variation...]
+
+;W[fp];B[gn]C[Black should have played the exchange A for B before 31.]LB[di:A]
+
+[gk:B];W[fh]C[Good timing.];B[fg];W[hp];B[di]C[Now we can see that the marked exchange favours White, because the marked white stone leaves bad aji for Black's shape, and it will give some help to White's weak stone in escaping or making eye shape. If White were to play the probe after 35, Black would fight back at A.]
+
+TR[fg][fh]LB[fi:A];W[gk];B[in];W[ik];B[kk]C[Good move. This is the vital point. ]
+
+;W[jl];B[jo];W[kl];B[jq];W[bp];B[gq];W[fq];B[mn]C[White has got a lot of certain territory on the left half of the board. How much territory can Black make on the right side will determine the result.]
+
+;W[fm];B[fn];W[ch]C[White is going to settle the weak group first, then invade Black's moyo. But to exchange A for B before 50 would be better. White's shape would be more solid that way.]
+
+LB[dm:A][dn:B];B[ci]C[This is Black's only choice. If Black plays at A, White will play at 51, and the black group is not completely settled. It will be difficult for Black to build a big territory if he has to look after a weak group at the same time.]
+
+LB[dh:A];W[dh]C[The game moves into violent fighting.];B[bh];W[bg];B[bj];W[eh];B[cg]
+
+;W[cf];B[dg];W[bf];B[fj];W[gj]
+
+(;B[gi]C[If Black 63 is at A, it will become a trade. See variation...]
+
+;W[ej];B[fk];W[ei];B[fl];W[dm];B[em];W[bl]C[White has gained more territory on the left side. Whether Black can build a big territory on the right side is still the key to the result.]
+
+;B[lk];W[hi];B[gh];W[ji];B[ki]C[This move is questionable. He should have played A to reduce White's eye shape.]
+
+LB[jj:A];W[kh];B[kg]C[77 is the right choice. If Black cuts at A to kill the white group, White will play 77 for B then play C to escape, and Black has to settle the centre three stones.]
+
+LB[jh:A][fi:B][mm:C];W[li];B[lg];W[ll];B[mi];W[nl];B[on];W[pl];B[ok];W[nm]
+
+;B[nn];W[pm];B[qj];W[qo];B[pn];W[qn];B[rl]C[The key point.];W[rm];B[ql];W[qm];B[rp]
+
+C[The key point. Black can only build territory through attacking.];W[kn]C[This is a probe. It is preparing for the hane at A.]
+
+LB[mj:A];B[op];W[mj];B[lj];W[kj];B[lh];W[qp]C[White 104 atari at A would be better than the game. He can use 104 as a ko threat.]
+
+LB[ni:A];B[qq];W[ni];B[ki];W[nj];B[ph];W[li];B[db];W[cb];B[ki];W[og];B[pg];W[li]
+
+;B[de];W[cd];B[ki];W[of];B[jj]C[Answering the ko threat at A would be better than the game. Black can still find ko threats at B or C.]
+
+LB[fb:B][ce:C][pf:A];W[rq];B[rr];W[qe]C[This will be the decisive battle.];B[oj]
+
+C[125 is a mistake. It should have been A to C, since the big white group is not alive. Black may have a chance to win the game through the fighting.]
+
+LB[oe:C][pe:B][pf:A];W[ro];B[nh];W[sp]C[Once White is alive, the game is good for him.]
+
+;B[ce];W[be];B[pd];W[nd];B[nc];W[md];B[mc];W[pe]C[136 is the losing move. He should have played A to E, 136, then F. He is still leading if he plays this way.]
+
+LB[kb:D][lb:B][jc:E][kc:C][lc:A][gr:F];B[ld];W[le];B[kd];W[mf];B[fb];W[da]
+
+;B[ic]C[Now Black is winning.];W[id]C[144 at A is the standard move.]LB[gc:A];B[hb]
+
+;W[hd];B[jc]C[White loses even more points this way. He has lost the game.];W[re]
+
+;B[gr];W[cl];B[dn];W[fr];B[bo];W[co];B[bm];W[gp];B[ir];W[ah];B[rc];W[rg];B[rh];W[qg]
+
+;B[mk];W[nk];B[oh];W[ko];B[kp];W[jn];B[fs];W[es];B[gs];W[dr];B[ap];W[aq];B[an];W[ao]
+
+;B[cm];W[bn];B[am];W[al];B[dl];W[bk];B[lo];W[sr];B[rs];W[rd];B[od];W[sc];B[rb];W[io]
+
+C[190 at A would be better than the game. Black can play C to separate White if White does not play the exchange of A for B.]
+
+LB[lf:C][mg:A][mh:B];B[ai];W[bi];B[ds];W[cs];B[bh];W[jp];B[kq];W[bi];B[lf];W[ke]
+
+;B[ne];W[mg]C[This is too late.];B[me];W[mh];B[li];W[pf]C[White at A does not work - Black will play 206, B, C.]
+
+LB[oe:C][qh:A][ri:B];B[qh];W[pk];B[sf];W[sg];B[rf];W[qk];B[nf]C[White resigns])
+
+(;B[fi]CR[fi];W[gh]CR[gh];B[gi]CR[gi];W[hh]CR[hh];B[hi]CR[hi];W[ih]CR[ih];B[ii]
+
+CR[ii];W[jh]C[This will become a big trade. Black cannot kill the white group with good aji.]
+
+CR[jh]))
+
+(;B[cq]CR[cq];W[cp]CR[cp];B[dq]CR[dq];W[ep]CR[ep];B[bp]CR[bp];W[bo]CR[bo];B[bq]
+
+CR[bq];W[co]CR[co];B[fq]CR[fq];W[fh]CR[fh];B[fg]CR[fg];W[dh]C[This is obviously no good for Black. The marked 9 stones are an inefficient shape.]
+
+CR[dh]TR[ed][ee][ef][ff][fg][gg][hg][ig][jg]))

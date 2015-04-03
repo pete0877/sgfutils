@@ -1,0 +1,160 @@
+(;GM[1]FF[4]US[GoGoD]SZ[19]ST[1]
+
+KM[5.5]
+
+TM[8h]
+
+AB[pd][dp]
+
+PW[Honinbo Shusai]
+
+WR[Meijin]
+
+PB[Go Seigen]
+
+BT[4d]
+
+HA[2]
+
+EV[Game 1 (of 2) of "Honinbo Meijin versus Go 4-dan" match sponsored by Kokumin Shinbun]  
+
+TM[8 hours each]
+
+DT[Published 25 Jan-8 Feb 1932]
+
+RE[B+R]
+
+;W[cd];B[pp];W[ed];B[cj]
+
+C[Go: I think 4 is bigger than - A -.]
+
+LB[jc:a]
+
+;W[ch];B[dn];W[jc];B[mc];W[jq];B[qj];W[me];B[jd]
+
+C[Go: To play at - A - means being forced, and to play at - B - gives White the right momentum to play - C -.]
+
+LB[je:C][ld:B][lc:A]
+
+;W[kc]
+
+C[Shusai: - A - is bad because of the ladder after Black 13..]
+
+LB[kd:a]
+
+;B[kd];W[lc];B[ld];W[md];B[nc];W[id]
+
+C[Shusai: - A - is another possibility.]
+
+LB[ic:a]
+
+;B[kf];W[hd]
+
+C[Shusai: - A - is correct, to avoid giving Black his next two forcing moves.]
+
+LB[hc:a]
+
+;B[cc];W[dc];B[bd];W[ce];B[mf];W[oe];B[ng]
+
+;W[og];B[ni];W[nf];B[mg];W[le];B[jg];W[od];B[oc];W[pc];B[qc]
+
+;W[pb];B[qb]
+
+(;W[qf]
+
+C[Simply >> 'a' was better...]
+
+;B[ob];W[pi];B[pj];W[qi];B[ri];W[rh];B[rj];W[kh]
+
+;B[nd];W[ne];B[kg]
+
+(;W[if]
+
+C[If >> 'a' instead...]
+
+;B[mq]
+
+C[Go: One step further at - A - was better.]
+
+LB[lq:a]
+
+;W[gq];B[ej]
+
+C[Go: It was better to defend the corner at - A -. ]
+
+LB[eq:a]
+
+;W[qp];B[qo];W[po];B[op]
+
+C[Go: There are various possibilities here but I was confident White could not live in the corner.]
+
+;W[qn]
+
+;B[ro];W[oj];B[oi];W[nj];B[oh];W[pg];B[rn];W[mj];B[ig];W[ql]
+
+;B[rl];W[jj];B[hf];W[mi];B[hi];W[hj];B[gj];W[hk];B[eg];W[gk]
+
+;B[fj];W[qq]
+
+C[Shusai: It was a regrettable slip not to have exchanged - A - for Black - B - before playing this.]
+
+LB[rm:b][rk:a]
+
+;B[pn]
+
+C[This negates the previously mentioned forcing move at - A -.]
+
+LB[rk:a]
+
+;W[or];B[nr];W[nq];B[np]
+
+C[Shusai: Cutting at - A - was also possible.]
+
+LB[oq:a]
+
+;W[oq];B[mr];W[rr]
+
+;B[rp];W[rq];B[sq];W[mp];B[lp];W[mo];B[sr];W[lq];B[kq];W[kp];B[lr];W[pq];B[nn];W[lo];B[iq]
+
+C[Go: - A - is also a safe alternative, as White's corner group can be captured.]
+
+LB[jr:a]
+
+;W[lq];B[kr];W[dk]
+
+C[Shusai: Aims at pushing through at - A -. But it did not work out as expected.
+
+The oversight of not playing at - B - earlier was decisive.]
+
+LB[rk:b][jr:a]
+
+;B[ci];W[dh]
+
+;B[eh];W[dm];B[ip];W[cn];B[co];W[en];B[do];W[bm];B[el]
+
+C[Go: Better not to rush ahead with this but to play at - A - to defend the corner.]
+
+LB[dq:a]
+
+;W[em]
+
+;B[fl];W[bo];B[bp];W[dq];B[ao];W[bn];B[cq];W[dr];B[fp];W[jp];B[jr];W[gp];B[fo];W[hr];B[ir];W[gn];B[go];W[ho];B[hn];W[fn]
+
+;B[io];W[hp];B[bs]
+
+C[After this Black easily winds the game up, noted Iwasa Kei.]
+
+;W[eo];B[ep];W[ar];B[cr];W[eq];B[fq];W[fr];B[cp];W[es];B[gs];W[hs];B[ds];W[cs];B[gr];W[fs];B[ds]
+
+C[Black - Go - won without counting.  
+
+
+
+Time used: White 6h 9, Black 5h 18])
+
+(;W[pe];B[qd];W[oh];B[nk]
+
+C[Shusai: ...Black probably cannot omit this.]))
+
+(;W[pi];B[pj];W[qi];B[ri];W[rh];B[rj];W[qg]))
+

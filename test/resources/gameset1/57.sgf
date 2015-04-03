@@ -1,0 +1,127 @@
+(;
+GM[1]FF[4]VW[]AP[Many Faces of Go:11.0]
+SZ[19]
+HA[0]
+ST[1]
+PB[Jie Li]
+PW[Dong Soo Kim]
+DT[2005-10-29]
+PC[IGS-PandaNet]
+KM[6.5]
+TM[0]
+RE[B+12.5]
+AN[Jie Li 9d]
+US[Chris Garlock]
+EV[Texas Open]
+GN[2005 Texas Open Round 2 Dong Soo Kim 6d (W) vs Jie Li 9d (B)]
+CP[Copyright (c) PANDANET Inc. 2005]
+BR[9d]
+WR[6d]
+RO[2]
+C[2005 Texas Open
+Round 2, Board 1
+October 29, 2005
+Navasota, Texas
+W: Dong Soo Kim 6d
+B: Jie Li 9d
+Comments by Jie Li 9d
+Recorded and edited by Chris Garlock
+Published in the October 29, 2005 special Texas Open edition \
+of the American Go E-Journal.]
+;B[pd];W[dc];B[qp];W[dq];B[do];W[co];B[cn];W[cp]
+;B[de];W[ce];B[cf];W[cd];B[df];W[fc];B[dn];W[fq];B[dj]
+C[This is a common opening. W gets two corners but B gets a moyo \
+in the middle.]
+;W[oq]
+;B[po];W[qj];B[qh];W[qm];B[np];W[mq];B[pl]
+C[B is trying to seal W in and build influence for the center moyo.]
+;W[ql];B[pj];W[pk]
+;B[ok];W[qk];B[pi];W[ol]
+C[the atari at P7 is possible but very aggressive]
+
+(;B[nl];W[om];B[nm];W[on];B[mp];W[lq];B[nn];W[ip];B[jd]
+C[B is pretty good now, with a lot of potential]
+
+;W[gf]
+(;B[pc]
+C[can also be played at K13]
+;W[eg];B[ch];W[jf]
+C[nice move; reduces B's potential]
+;B[hd]
+C[aiming at cutting the white center stones off]
+
+(;W[ie]
+C[nice defense]
+;B[id];W[ke]
+C[reduces b's potential moyo]
+;B[lc];W[rh];B[rg];W[qi]
+C[sente]
+;B[ph];W[ld]
+C[also sente]
+
+;B[mc];W[nk];B[oj];W[fj]
+C[big]
+;B[go]
+(;W[gp]
+C[I might prefer playing at H4]
+;B[dp];W[cq];B[lp];W[kq];B[ji]
+C[good place; increases B's potential and reduces W's potential]
+;W[ih];B[ii];W[hh]
+;B[jo];W[ho]
+(;B[jp]
+C[B can play at L13 for points, but...(see variation)]
+;W[jq];B[hn];W[gn];B[hm];W[hj];B[ik]
+C[Now B is ahead]
+;W[kh];B[pq]
+;W[or];B[ri];W[rj];B[sh];W[ki];B[kk];W[kj];B[lk];W[md];B[rn]
+C[sente against group]
+
+;W[rm];B[gb]
+C[huge yose]
+;W[nc];B[nd];W[ne];B[od];W[kc];B[kb];W[kd];B[jb]
+;W[gc];B[hb];W[di];B[cj];W[ng];B[bn];W[of];B[pf];W[qr];B[aq]
+C[B is about 15 ahead on the board, 9 after komi. the score doesn't \
+change for quite a while, but W looks like he gets a chance]
+
+;W[ar];B[eb];W[ec];B[fb];W[db];B[fo];W[hk];B[hl];W[ek];B[io]
+;W[hp];B[be];W[bd];B[bg];W[rq];B[ao];W[bq];B[ei];W[ej];B[eh]
+;W[fh];B[dh];W[jj];B[ij];W[jk];B[jl];W[mi];B[fi];W[gi];B[fg]
+;W[ff];B[gh];W[gg];B[fh];W[jh];B[ad];W[ac];B[ae];W[bb];B[ap]
+;W[dl];B[cl];W[dk];B[ck];W[qn];B[rp];W[oo];B[op];W[no];B[mo]
+;W[kp];B[ko];W[mk];B[ml];W[ni];B[pr];W[ps];B[qq];W[rr];B[br]
+;W[cr];B[as];W[ep];B[he];W[hf];B[je];W[if];B[gk];W[gj];B[fm]
+;W[sn];B[sp];W[sq];B[ef];W[pg];B[qg];W[pe]
+C[B could play defensively here by connecting at R14 and would \
+still be comfortably ahead. But I chose not to because there's \
+nothing W can do in the corner.]
+
+(;B[og]
+C[after the game, some of the other strong players suggested W \
+R14 might work, but it doesn't (see var)]
+
+(;W[oe];B[qe]
+C[No further comments. B wins by 12.5]
+;W[oh];B[pg];W[eo];B[fn];W[ro];B[pn];W[pm]
+;B[oi];W[nh];B[nq];W[nr];B[me];W[nf];B[lj];W[dm];B[fl];W[cm]
+;B[bm];W[fk];B[li];W[lh];B[gl];W[ea];B[fa];W[da];B[jc];W[kf]
+;B[fp];W[hc];B[ic];W[sj];B[en];W[eq];B[si];W[hi];B[il];W[bo]
+;B[mn];W[cs];B[an];W[bs];B[ar])
+(;W[qf];B[pg];W[oe];B[qe];W[qd];B[re];W[nb];B[mb];W[ma]
+;B[lb];W[qc];B[pb];W[qb]
+C[if B plays at P19m W will get a devastating ko, so Q19 is the \
+killing move]
+
+(;B[pa]
+C[this is a tesuji.]
+)
+(;B[oa];W[ra])))
+(;B[qf];W[oe];B[qe]))
+(;B[kg];W[jl]
+C[W can invade pretty deep.]
+))
+(;W[hp]))
+(;W[gd];B[hf];W[hg];B[if];W[ig];B[jg]))
+(;B[jg]))
+(;B[om]
+C[also possible]
+))

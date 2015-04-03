@@ -1,0 +1,168 @@
+(;GM[1]FF[4]SZ[19]ST[1]
+
+PB[Qiu Jun]
+
+PW[Kong Jie]
+
+DT[2004-01-17]
+
+KM[3.75]
+
+RU[Chinese]
+
+RE[W+R]
+
+US[GoGoD]
+
+EV[18th Tianyuan]
+
+GC[Commentary by Wang Hongjun 7d]
+
+BR[6d]
+
+WR[7d]
+
+RO[Round 2]
+
+;B[qd];W[dd];B[pq];W[oc];B[dp];W[po];B[md];W[ne]
+
+;B[pf];W[me];B[qi];W[ld];B[fc];W[hc];B[oo]
+
+(;W[pp]
+
+C[Because of Black's solid group, it is obvious that White could
+
+not choose the joseki at >> 'a'.
+
+];B[op];W[qq]
+
+(;B[oq]
+
+C[For Black it is better to play >> 'a' so that he can tenuki to
+
+play in the upper left corner.
+
+];W[qr];B[pn];W[qn];B[qm];W[ro];B[cf]
+
+C[Black tenukis to play on the up left corner. but in fact White's
+
+cut at - A - is quite big. So, if Black is determined to get
+
+sente here, 19 {marked} should have been the double hane into
+
+the corner.
+
+]LB[pm:A]
+
+TR[oq]
+
+;W[df];B[cc]
+
+;W[dc];B[dg];W[ce];B[ef];W[de];B[bf];W[eg];B[dh];W[eh];B[be]
+
+C[Black 37 is better at - A -.  This is a 
+
+good point which looks after the whole 
+
+board and builds influence of a kind
+
+with the marked stones.
+
+]LB[ei:A]
+
+TR[dp][pq][oq][op][oo]
+
+
+
+;W[ei]
+
+C[White 38 is a very comfortable extension.
+
+];B[db];W[eb];B[cb];W[ec];B[rn];W[qo];B[pm];W[ff];B[ip]
+
+;W[gq];B[iq];W[dq];B[eq]
+
+C[Since the ladder favours White, Black 51 would do better to hane
+
+at - A -.
+
+]LB[cq:A]
+
+;W[ep]
+
+C[White 52 is a strong move.
+
+];B[fp];W[eo];B[cq];W[dr];B[fq]
+
+;W[cp];B[do];W[bq];B[co];W[cr];B[en];W[fo]
+
+C[Black cannot capture these three white 
+
+stones in a ladder.
+
+];B[gp];W[ho]
+
+C[White 66 is a good move in this position.
+
+];B[go]
+
+C[Black cannot allow White to escape by connecting  at 67 in sente.
+
+]
+
+;W[fn];B[gn];W[fm];B[gm];W[em];B[cj];W[cm]
+
+C[After 74, White has killed Black in the corner and achieved about
+
+25 points territory. White is ahead.
+
+];B[ic]
+
+C[Black 75 is trying to stir up trouble.
+
+];W[id];B[jc]
+
+;W[hd];B[lc];W[kd];B[mb];W[nb];B[bm];W[bl];B[hb];W[gb];B[ga]
+
+C[Black 87 is the only way to live, with a ko.
+
+]
+
+;W[kb];B[kc];W[ib];B[ia];W[ha];B[cl];W[dl];B[hb]
+
+C[It becomes an approach-move ko. As White can use the approach
+
+moves as threats, the ko fight is difficult for Black.
+
+];W[jb];B[fb]
+
+;W[ha];B[ck];W[bn];B[hb];W[gc];B[lb];W[ha];B[am];W[an];B[hb]
+
+;W[pe];B[jd];W[ha];B[dm];W[dn];B[hb];W[qe];B[ha];W[ea];B[ka]
+
+;W[re]
+
+C[White is obviously ahead after 118.
+
+];B[ja];W[kk];B[fd];W[hf];B[fa];W[fe];B[if];W[ig];B[hg]
+
+;W[jf];B[ih];W[ie];B[jk];W[kj];B[kh];W[lh];B[li];W[ki];B[ji]
+
+;W[jj];B[ij];W[ik];B[hk];W[jl];B[il];W[mi];B[lj];W[mk];B[mh]
+
+;W[lg];B[mj];W[hj];B[jk];W[nj];B[ni];W[ik];B[rp];W[rm];B[jk]
+
+;W[lk];B[mi];W[ik];B[sn];W[so];B[jk];W[oj]
+
+C[Black resigns.
+
+])
+
+(;B[qr];W[pr];B[oq];W[rr];B[qp];W[rq]
+
+C[Now Black can tenuki to play in the upper left corner.
+
+]))
+
+(;W[on];B[op];W[pm];B[qo];W[qn];B[ro]))
+

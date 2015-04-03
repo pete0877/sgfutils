@@ -1,0 +1,566 @@
+(;GM[1]FF[4]SZ[19]ST[1]
+
+PB[Go Seigen]
+
+PW[Inoue Kohei]
+
+DT[1927-11-25]
+
+PC[Home of Li Luge, Beijing]
+
+KM[0]
+
+RE[B+R]
+
+EV[Visit to Chinese go circles by Inoue from Japan, fourth game of five with Go]
+
+WR[5d]
+
+;B[qd];W[qp];B[dc];W[ce];B[co]
+
+C[Go, then 13, had already mastered the Shusaku fuseki by studying
+
+old Japanese books on his own. From this time until his invention
+
+with Kitani of the New Fuseki six years later, he too earned
+
+the title of "Invincible with Black". 
+
+]
+
+(;W[ep]
+
+C[Common sense in this fuseki. If >> 'a' instead... 
+
+];B[eo]
+
+(;W[do]
+
+C[Probably an attempt to test the youngster's skill. The >> variation
+
+'a' is quieter.]
+
+(;B[dp]
+
+C[If Black blocks at 'a', it is another joseki >> ....
+
+];W[dn];B[cp]
+
+(;W[eq]
+
+C[Since White has to play here, it seems somewhat unreasonable
+
+for him.  Indeed, even if the ladder works and White can play
+
+>> 'a', the outcome seems to favour Black in Go Seigen's eyes
+
+- he favours territory. 
+
+];B[fo];W[cn];B[gq];W[cr];B[bn];W[bm];B[br]
+
+(;W[dr]
+
+C[Lacking in resourcefulness. Once Black has attached at the marked
+
+stone, the proper order of moves is to attach at >> 'a', and
+
+then there are many variations. 
+
+]TR[br]
+
+;B[bo];W[cl];B[bq];W[gr];B[hr];W[fr];B[ho];W[es]
+
+;B[fq];W[fp];B[gp];W[dq];B[gs];W[cs]
+
+C[Black ends up with sente. 
+
+];B[oq]
+
+C[The overall position is now rather straightforward for Black.
+
+Taking the division in the lower left as equal, the shapes in
+
+the upper left and lower right are roughly similar, and the effect
+
+is that Black has been able to keep the marked stone in the upper
+
+right unchallenged.
+
+]TR[qd]
+
+;W[po];B[ed];W[dg]
+
+;B[mp]
+
+C[This balanced and calm style of mimic play by Black obviously
+
+leaves White with few opportunities. 
+
+];W[oc];B[kc];W[pe];B[qe]
+
+(;W[pg]
+
+C[Perhaps White should have played at >> 'a' to get sente. 
+
+];B[pf];W[of];B[qf];W[og];B[pc]
+
+(;W[nd]
+
+C[A slack move. He must play >> 'a'...
+
+];B[hd]
+
+C[Very alert. Once the exchange of marked stones has taken place,
+
+- A - is no longer sente against the corner. This kind of fleet-footedness
+
+has been the kernel of Go's style from his early Shusaku-style
+
+days, through the New Fuseki days, right down to the later Three
+
+Stars formation.
+
+]LB[qg:A]
+
+TR[pc][nd]
+
+;W[qg];B[nm]
+
+C[A fine response and exquisite insight. Once White has blocked
+
+at the marked point, the White territory on the right is looking
+
+ominously big.  But, assessing the game as a whole, Black does
+
+not want to invade here. If it is a territory surrounding game,
+
+he has enough.
+
+]TR[qg]
+
+;W[iq]
+
+C[He has no choice but to invade as he would be behind in a straightforward
+
+territory-surrounding game. 
+
+];B[hq];W[jo];B[kq]
+
+C[The vital point. If he lets White play here, not only would he
+
+be giving White a base but his own position would be full of
+
+holes. 
+
+];W[jl]
+
+;B[qr]
+
+C[White has merely jumped into empty space at the marked point,
+
+whereas Black 59 has taken a big point and useful territory.
+
+Black's strategy is beyond reproach.
+
+]TR[jl]
+
+;W[pl]
+
+C[White 60 is somewhat defensive, and there is a feeling that White
+
+is being enclosed. His territory may look large, but if Black
+
+gets the endgame play at - A - it is not worth much more than
+
+20 points. 
+
+
+
+Black had clearly seen all this when he played 53 {marked}. 
+
+]LB[rq:A]
+
+TR[nm]
+
+;B[ol]
+
+C[By being willing to force White here, Black shows he has already
+
+a definite plan in mind. 
+
+];W[pk];B[hl]
+
+C[Black's plan is to attack White's marked centre group in order
+
+to aim at invasion at - A -.  
+
+
+
+But White has no obvious way to give his centre group any shape,
+
+so he seems stuck, with no way forward or back. 
+
+]LB[di:A]
+
+TR[jl][jo][iq]
+
+;W[np]
+
+C[It seems White has no option but to try to exploit Black's thinness
+
+between the marked stones.  
+
+
+
+However, as events will show, he should have simply surrounded
+
+territory at - A - or - B -. 
+
+]LB[di:A][ei:B]
+
+TR[mp][nm]
+
+;B[no];W[mo]
+
+C[The crosscut goes against the grain but is inevitable here. 
+
+];B[mn];W[lo]
+
+;B[op];W[lp];B[nq];W[lq];B[lr];W[kr];B[jr];W[kp]
+
+C[It is better for White not to play this out so that he can aim
+
+at - A - later.  He should just make his next move straight away.
+
+]LB[mr:A]
+
+;B[jq];W[ln]
+
+;B[di]
+
+C[A very severe invasion. By being able to play here Black has
+
+made his advantage clear. 
+
+];W[bc]
+
+(;B[dk]
+
+C[Could also be simply >> 'a'.]
+
+;W[dl];B[bk];W[ck];B[cj];W[ek];B[ej];W[fk];B[gj]
+
+C[Severe. 
+
+]
+
+;W[fj];B[fi]
+
+(;W[bj]
+
+C[If he takes the ko at 'a' instead ...
+
+];B[ci];W[gi];B[gk];W[fh];B[ei];W[bi];B[bh];W[ak]
+
+;B[gh]
+
+C[This works but proper technique is simply to play at - A -. 
+
+]LB[eh:A]
+
+;W[hi];B[eh];W[bg];B[jj]
+
+C[Good, taking up the high ground in the centre. 
+
+];W[mm]
+
+C[Proper style is to play - A -.
+
+]LB[ml:A]
+
+;B[ml]
+
+C[It was too much to expect Black - A -, White 107. 
+
+
+
+This counterthrust gives Black the right momentum. 
+
+]LB[nn:A]
+
+;W[nn];B[on];W[ll]
+
+;B[mn];W[lm]
+
+C[Despite the capture at - A -, White has achieved nothing. 
+
+]LB[nn:A]
+
+;B[lj];W[mk];B[hh];W[mr];B[ks];W[mq];B[oo]
+
+(;W[pm]
+
+C[Variation >> 'a' would be too greedy.]
+
+;B[rq];W[qq];B[rr];W[ps];B[pr]
+
+(;W[ob]
+
+C[If White tries to take away Black's eyes at >> 'a'... 
+
+];B[pb];W[pa];B[qa];W[na]
+
+C[A common tactic to try to affect Black's territory outlined by
+
+the marked stones. 
+
+]TR[kc][hd][ed][dc]
+
+;B[oa];W[rp];B[os];W[pa]
+
+;B[rb];W[ke]
+
+C[Has the twin aims of invasion at the top and pulling out at -
+
+A -. But in fact his only chance of creating something was to
+
+pull out at - A - at once. 
+
+]LB[ii:A]
+
+;B[mj];W[im];B[ii]
+
+C[This combination of forcing move and capture decides the final
+
+outcome. 
+
+];W[gn]
+
+C[If White expected Black - A - next he was being complacent. He
+
+ends up with no profit and only damage to himself. 
+
+]LB[go:A]
+
+;B[fm];W[fn];B[en];W[em]
+
+;B[go];W[cb];B[cc];W[bb];B[db];W[ns];B[or];W[ic];B[id]
+
+C[Unshakeable, answering in the simplest fashion. 
+
+];W[jc]
+
+;B[jd];W[kb]
+
+(;B[kd]
+
+C[Variation >> 'a' instead is dangerous...
+
+];W[lb]
+
+C[He could have played - A - to pursue the invasion to its bitter
+
+end.
+
+]LB[ib:A]
+
+;B[ai];W[bl];B[hb]
+
+C[White has scooped out Black's territory in sente, but in return
+
+Black has acquired thickness in the centre and maintained the
+
+territorial balance.  White has no hope. 
+
+];W[jf];B[kg];W[le];B[ch]
+
+;W[cg];B[rg]
+
+C[A big endgame play in sente. 
+
+];W[rh];B[rf];W[qi]
+
+C[If White omits this, Black clamps at - A - and devastates the
+
+right side. 
+
+]LB[ri:A]
+
+;B[sp];W[so];B[sq];W[rn];B[mf]
+
+;W[ld];B[in]
+
+C[Now the folly of White's marked stone is exposed. 
+
+]TR[gn]
+
+;W[jn];B[hm];W[fl]
+
+C[White has to play - A - to live, but as he would be too far behind
+
+after Black 180, he just engineers an excuse to resign.
+
+]LB[nl:A]
+
+;B[lk]
+
+C[White resigned.
+
+])
+
+(;B[lb];W[kd];B[lc];W[jb]))
+
+(;W[os];B[ro]
+
+C[Now White cannot push in at - A -. 
+
+]LB[rp:A]
+
+;W[rp];B[qo]))
+
+(;W[rr];B[qq];W[rq];B[qn];W[pn];B[pm];W[qm];B[qo];W[pp]
+
+;B[rp];W[om];B[ro]
+
+C[Bad for White. 
+
+]))
+
+(;W[dj];B[ei];W[ci];B[dk]
+
+C[White has no chance of success. 
+
+]))
+
+(;B[bk];W[cj];B[ck];W[dk];B[dj];W[bj];B[ek];W[dl];B[bi]
+
+;W[ak];B[ci];W[bl]
+
+C[A sente squeeze. 
+
+]))
+
+(;W[ob]
+
+C[Sente against the corner. 
+
+];B[qh];W[hd]
+
+C[Invasion is still possible. 
+
+]))
+
+(;W[pf];B[qg];W[hd]
+
+C[With sente he can invade here. If he doesn't invade here at some
+
+point he will lose a good opportunity.
+
+]))
+
+(;W[gr];B[hr]
+
+(;W[er]
+
+C[Makes miai of 'a' and - B -. Or White can play >> 'a' at once.
+
+]LB[bq:B]
+
+;B[fr];W[bq])
+
+(;W[hq]
+
+C[The crosscut works here. 
+
+];B[gp];W[ir];B[fr];W[hs]
+
+C[White still has the capture at - A - so he stands slightly better
+
+here.
+
+]LB[bo:A]
+
+)))
+
+(;W[fo];B[eq];W[en];B[fq]
+
+C[Black has a lot of profit. But some players rather like White's
+
+thickness once he plays - A -.
+
+]LB[cn:A]
+
+))
+
+(;B[dn];W[dp];B[cp];W[cq];B[cm];W[fo];B[en];W[dr]
+
+C[This hanging connection is an active move, preventing the hane
+
+by Black at - A - or the cut at - B -. White has thus carved
+
+out the corner for himself. 
+
+]LB[bq:A][fp:B]
+
+))
+
+(;W[fo];B[en];W[dp];B[cp]
+
+(;W[gp]
+
+C[Taking sente. But if White dislikes the result he can also play
+
+at >> 'a'...
+
+];B[cq];W[nq]
+
+C[This seems perfectly satisfactory. The big points next are the
+
+enclosure at - A - for Black and the extension at - B - for White.
+
+
+
+However, White may dislike this because the marked stone gives
+
+Black a secure base from which to pincer at - C -. 
+
+]LB[ch:C][qj:B][od:A]
+
+TR[cq]
+
+)
+
+(;W[cq];B[fp]
+
+C[Natural. To play at - A - would allow White - B -, a much better
+
+result for White than in the other joseki shown here. 
+
+]LB[bq:A][gp:B]
+
+;W[fq];B[gp];W[gq];B[hp];W[hq];B[ip];W[do]
+
+C[There are many variations, such as White pushing once more at
+
+- A -. 
+
+]LB[iq:A]
+
+
+
+;B[dn];W[cn];B[bq];W[dr];B[bn];W[cm];B[bm]
+
+C[Could be omitted to live straightaway at - A -. 
+
+]LB[br:a]
+
+;W[cl];B[br];W[fm]
+
+;B[fn];W[gn];B[gm];W[em];B[go];W[hn];B[iq];W[ir];B[jr];W[hs]
+
+;B[gl])))
+
+(;W[dq];B[ci]
+
+C[Black is allowed a perfect pincer cum extension.]))
+

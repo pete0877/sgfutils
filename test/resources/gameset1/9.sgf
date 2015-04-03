@@ -1,0 +1,322 @@
+(;GM[1]FF[4]US[GoGoD]SZ[19]ST[1]
+
+KM[0]
+
+EV[First of three trial games for grading Go Seigen in Japan.]
+
+PW[Shinohara Masami]
+
+WR[4d]
+
+PB[Go Seigen]
+
+PC[Nihon Ki-in, Tokyo]
+
+DT[1, 3 and 7 December 1928]
+
+RE[B+R]
+
+GC[Handciap was B-W-B. Go was provisionally rated 3-dan.]
+
+;B[qd];W[po];B[dc];W[df]
+
+C[White's high two-space pincer is rarely played now but it was common at the time. If Black defends at - A -, White gets sente to occupy the empty corner.  There is nothing wrong with that except that it goes along with White's plans.]
+
+LB[fd:a]
+
+;B[ce]
+
+C[Therefore Black plays this to take sente himself, showing clear insight even at the age of 14. The reason White does not play at the marked point nowadays is precisely because of this Black reply.]
+
+TR[df]
+
+;W[cf];B[de];W[ef]
+
+(;B[do]
+
+C[Go: It was more solid to play at 'a' >> ...]
+
+;W[dq];B[cj];W[cm]
+
+C[White alertly invades, exploiting the weakness of the marked stone.]
+
+TR[do]
+
+;B[dp];W[em]
+
+(;B[ej]
+
+C[Go: Could also be at 'a' >> ....]
+
+;W[eq]
+
+C[Inevitable - now the battle lines are drawn up.]
+
+(;B[fo]
+
+C[Go: If Black plays at >> 'a', the result will be a fair division of the spoils.]
+
+;W[gm];B[dl]
+
+C[A free forcing move.]
+
+;W[dm];B[gp];W[bq];B[bp];W[cl]
+
+C[Immediately after the game the judgement was that this was too quiet.  Nevertheless, it is a powerful move, taking away Black's base and taking account of the fact that White can settle himself with - B - if Black plays - A -.]
+
+LB[cq:b][aq:a]
+
+;B[fr]
+
+C[Go: Black would like to play - A - instead but it is not certain that this would be a forcing move.]
+
+LB[gr:a]
+
+;W[er];B[gi]
+
+C[Go: - A - is also a good point, but then White can cap at - B - and Black will be in trouble at the top.]
+
+LB[gj:b][jp:a]
+
+;W[jp];B[io];W[ho]
+
+C[Go: A powerful move typical of Shinohara.]
+
+(;B[fl]
+
+C[Go: 'a' >> instead allows White to cut too easily.]
+
+;W[fm];B[ip];W[go];B[fp];W[hp];B[hq];W[iq]
+
+C[White cuts anyway. Can Black live?]
+
+;B[in];W[hm];B[hr];W[jq];B[cq];W[cr];B[cp]
+
+C[Go: Vulgar moves, but good enough.]
+
+(;W[fq]
+
+C[If White 'a' >> instead, Black can live easily.]
+
+;B[gq];W[fs];B[br];W[bs];B[ar];W[gr];B[kn]
+
+C[Black has to live in the corner but he can get this forcing move in first.]
+
+;W[mq]
+
+C[Go: - A - is a better connection with the marked stone in the corner and puts more pressure on the four black stones above. It is best in fighting games to pile force on force.]
+
+LB[mp:a]
+
+TR[po]
+
+;B[lp]
+
+C[Go: This is overdoing it. Simply living at - A - is best. Then he can aim at exploiting the poor connection between the marked stones with - B - later.]
+
+LB[np:b][bn:a]
+
+TR[po][mq]
+
+(;W[lq]
+
+C[Go: Therefore this is bad. He should defend by pushing up at >> 'a' to prevent a Black play at the marked point.]
+
+TR[np]
+
+;B[bn]
+
+C[Black lives and now the game becomes easy for him.]
+
+;W[jl];B[kl]
+
+(;W[jk]
+
+C[Go: If 'a' >> ...  
+
+
+
+This was the final move on the first day. Black had already used five hours.]
+
+;B[kk];W[jj];B[gg]
+
+C[Go: Black takes sente to switch the attack in good order.]
+
+(;W[ee]
+
+C[Go: Better at `a' >> ...]
+
+;B[fc];W[ge];B[if];W[gc];B[fd];W[gd];B[be];W[gf];B[hk];W[im]
+
+C[Black should have omitted this exchange - it fills in a liberty of his group below.]
+
+TR[hk]
+
+;B[ih]
+
+C[Go: Should be at - A -, which creates fewer weaknesses.]
+
+LB[hg:a]
+
+;W[di];B[dj];W[kj];B[mk];W[lk];B[ll];W[lj];B[nm]
+
+C[Go: A bad mistake, though not a game-losing move. Black should have forced first with Black - A -, White - B -. By omitting this exchange Black has set himself up for an oi-otoshi.]
+
+LB[kq:b][kp:a]
+
+;W[jn];B[id]
+
+C[Black recovers his composure already by switching the attack.]
+
+;W[cc]
+
+C[Go: A nice move, probing Black's response.]
+
+(;B[dd]
+
+C[Go: 'a' >> instead sees Black's territory erased.]
+
+;W[ci]
+
+C[Go: In view of Black's next move, White should first exchange - A - for - B - then play - C - and let the group on the left take its chances.]
+
+LB[pl:c][ig:b][hg:a]
+
+;B[qm]
+
+C[Go: By being able to switch here in good order, Black has established a lead.]
+
+;W[gb];B[fb];W[je];B[ie];W[jc];B[ic]
+
+;W[ib];B[hb]
+
+(;W[hc]
+
+C[Go: Variation >> 'a' is equally possible.]
+
+;B[jb];W[ha];B[kc];W[cb];B[db];W[jd];B[lb]
+
+C[Go: Black attempts to decide the game.]
+
+;W[ld]
+
+(;B[nc]
+
+C[Go: If >> 'a', Black's group comes under attack instead.]
+
+;W[kg]
+
+C[Go: Better at - A -. ]
+
+LB[lf:a]
+
+;B[kf]
+
+C[Go: By taking advantage of the triangled stone, Black can settle his group in good order.]
+
+TR[kg]
+
+;W[jf];B[jg];W[jh];B[ig];W[lf];B[kh];W[lg];B[me];W[le];B[bg]
+
+C[Go: A good way to secure life.]
+
+(;W[cg]
+
+C[The final move on the second day's play. 
+
+
+
+Go: If 'a' >> ...]
+
+;B[bi];W[bf];B[bh];W[ae];B[ad];W[af];B[bc];W[bk];B[bj];W[eh]
+
+C[Go: It is painful for White to have to live in gote like this.]
+
+;B[fh];W[fg];B[ei];W[ch];B[pq]
+
+C[Having skilfully settled his big group in sente, Black gets the decisive point.]
+
+;W[bm]
+
+(;B[cn]
+
+C[If omitted, say to play at >> 'a' , White gets a ko.]
+
+;W[pp]
+
+C[Go: Unavoidable. Black has forcing moves at - A -, - B - and - C -.]
+
+LB[mm:c][ln:b][lo:a]
+
+;B[qq];W[no];B[oq];W[rp];B[rq];W[pm];B[pl];W[ql]
+
+(;B[om]
+
+C[Go: Correct. 'a' first runs the risk of a White counterattack >> ...]
+
+;W[pn];B[qk];W[rl];B[pj];W[ol];B[pk];W[rm];B[pg];W[mj];B[nk];W[oc]
+
+C[Sheer desperation.]
+
+;B[od]
+
+C[But the young Go replies in steady fashion and wraps up the game.]
+
+;W[pc];B[pd];W[nb];B[mb];W[nd];B[mc];W[qc]
+
+(;B[rc]
+
+C[Go: Black could capture at 'a' >> instead, but I saw that I was ahead and so played cautiously.]
+
+;W[rb];B[rd];W[na];B[md]
+
+C[Black {Go} wins without counting. He is more than 10 points ahead even when White lives with - A -. The next moves would be Black - B -, White - C -, Black - D -.]
+
+LB[rk:d][lh:c][ng:b][sb:a])
+
+(;B[ob];W[pb];B[rb]))
+
+(;B[qk];W[ol];B[pk];W[om];B[ok];W[nk]))
+
+(;B[qg];W[an];B[ao];W[aq];B[ap];W[cn];B[am];W[al]))
+
+(;W[bi];B[cg];W[ei];B[fi];W[fh];B[fg];W[eg];B[bj]
+
+C[Go: Now White has more to fear.]))
+
+(;B[kd];W[ke];B[le];W[jg];B[ig];W[kg]))
+
+(;W[kb];B[ia];W[ja]
+
+C[Ko.]))
+
+(;B[cb];W[ed];B[ec];W[dd];B[cd];W[bc];B[bb];W[bf]))
+
+(;W[gf];B[hf];W[ge]))
+
+(;W[jm];B[hs];W[gs];B[kp];W[kq];B[km]))
+
+(;W[mp];B[lq];W[lo];B[ko];W[lr]
+
+C[White secures his connection.]))
+
+(;W[br];B[es];W[ds];B[fs];W[bs];B[od]
+
+(;W[fq]
+
+C[Or 'a' >> ... 
+
+];B[gq];W[gs];B[gr];W[bn];B[ep];W[dr];B[en])
+
+(;W[bn];B[fq];W[en];B[ir];W[jr];B[is])))
+
+(;B[hp];W[go];B[fp];W[ip]))
+
+(;B[fp];W[ep];B[eo];W[fo];B[fn];W[go];B[en];W[cq];B[bp]
+
+;W[gp];B[fm]))
+
+(;B[cq];W[ej];B[eq]))
+
+(;B[co];W[dq];B[ck]))
+

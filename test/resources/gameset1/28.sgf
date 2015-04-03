@@ -1,0 +1,150 @@
+(;GM[1]FF[4]SZ[19]ST[1]
+
+PB[Yu Bin]
+
+PW[Qiu Jun]
+
+DT[2003-11-25]
+
+PC[Zhongguo Qiyuan, Beijing]
+
+KM[3.75]
+
+RU[Chinese]
+
+RE[W+R]
+
+US[GoGoD]
+
+EV[16th Mingren]
+
+GC[Commentary by Wang Hongjun 7d]
+
+BR[9d]
+
+WR[6d]
+
+RO[Challengers' Final, Game 1]
+
+;B[qd];W[dc];B[pp];W[dp];B[oc];W[qj];B[de];W[ce]
+
+;B[cf];W[cd];B[cn];W[dk];B[fp];W[dn];B[cq];W[co];B[dq];W[cm]
+
+C[After 18, the position in the lower left corner favours Black,
+
+but the two black stones in the upper left corner do not have
+
+enough space to make an extension because of the white
+
+thickness, so the game is reasonable for 
+
+both sides.
+
+]
+
+;B[qh];W[qn];B[ql]
+
+(;W[rl]
+
+C[White perhaps didn't want to play variation >> 'a' as, with that
+
+joseki, he would gain thickness on the outside but give up the
+
+corner to Black.  In that case, White would be thick but without
+
+much territory over the whole board.
+
+];B[rm];W[qm];B[rk];W[pl];B[qk];W[pk];B[rj];W[np]
+
+;B[oo];W[qq];B[rn];W[pq];B[no];W[mp];B[mo];W[lp];B[mk];W[fq]
+
+C[White 40 is a very strong move.
+
+]
+
+(;B[gq]
+
+C[Black 41 is the only choice. If >> 'a'...
+
+];W[eq];B[ep];W[gr];B[hq];W[dr];B[hr];W[cr];B[fr]
+
+;W[er];B[gs];W[go];B[gp];W[bq];B[mi];W[jd];B[ld];W[df];B[hd]
+
+;W[jf];B[hf];W[lf];B[ih];W[lh];B[ng];W[nf];B[mg];W[mf];B[lc]
+
+;W[nd];B[nc];W[pd];B[pc]
+
+;W[qe];B[od];W[og];B[oh];W[oe];B[pg]
+
+;W[jh];B[ii];W[pf];B[qf];W[li];B[of];W[pe];B[re];W[og];B[op]
+
+C[Black should not start the ko fight, as he has 
+
+no big ko threats. 
+
+]
+
+;W[rd];B[oq];W[ro];B[qo];W[qp];B[po];W[qc];B[jc];W[io];B[cg]
+
+;W[ee];B[dg];W[ef];B[or];W[jp];B[jr];W[sn];B[sl];W[ic];B[jb]
+
+;W[fh];B[cj];W[id];B[ib];W[hc];B[im];W[kk];B[kl];W[jl];B[jm]
+
+;W[fn];B[il];W[ll];B[jk];W[lk];B[ml];W[lm];B[gj];W[rs]
+
+C[Black has spent three moves in the lower 
+
+right corner, as marked, but there is still a ko. So, starting
+
+the ko fight in the upper right 
+
+corner is the main reason Black loses.
+
+]TR[or][oq][op]
+
+;B[sr]
+
+;W[fj];B[gi];W[fi];B[bl];W[sp];B[pr];W[rq];B[rf];W[mh];B[ni]
+
+;W[mm];B[nm];W[nh];B[nl];W[km];B[kn];W[lo];B[hn];W[ho];B[fm]
+
+;W[fk];B[gn];W[fo];B[gl];W[jj];B[ij];W[oi];B[of];W[hk];B[gk]
+
+;W[jl];B[ik];W[fl];B[gg];W[gh];B[hh];W[gm];B[gd];W[bj]
+
+C[White 168 is a good move. If Black answers at - A -, White will
+
+play - B -. Black could only 
+
+make the half of the group live.  White's territory will be superior
+
+if Black plays this way.
+
+]LB[ci:B][bi:A]
+
+;B[ck]
+
+;W[ci];B[di];W[bi];B[dj];W[ch];B[eg];W[fg];B[bg];W[gf];B[dl]
+
+;W[dh];B[eh];W[ei];B[be];W[af];B[ah];W[bh]
+
+C[Black resigns.
+
+])
+
+(;B[eq];W[gq];B[ep];W[gp]
+
+C[ If Black plays this way, White will have made a lot of territory
+
+on the side, and  the black group on the corner will still be
+
+weak and will need to spend one more move to live or escape.
+
+The result obviously favours 
+
+White.
+
+]))
+
+(;W[on];B[nq];W[pk];B[rp];W[pl]))
+

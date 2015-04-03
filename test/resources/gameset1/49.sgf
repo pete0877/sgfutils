@@ -1,0 +1,100 @@
+(;GM[1]FF[4]SZ[19]ST[1]
+
+PB[Peng Quan]
+
+PW[Kong Jie]
+
+DT[2004-02-02]
+
+KM[3.75]
+
+RU[Chinese]
+
+RE[W+R]
+
+US[GoGoD]
+
+EV[11th Xinren Wang]
+
+GC[Commentary by Wang Hongjun 7d]
+
+BR[5d]
+
+WR[7d]
+
+RO[Quarter-final]
+
+;B[qd];W[dd];B[pp];W[dq];B[cf];W[fd];B[cj];W[od]
+
+;B[oc];W[nc];B[pc];W[nd];B[qf];W[jc];B[co];W[ep];B[dn];W[ch]
+
+;B[cc];W[cd];B[bd]
+
+(;W[dc]
+
+C[If White 22 is play at 'a', the marked white stone ends up too near a thick wall.
+
+];B[bb];W[cb];B[bc];W[eh];B[ej];W[db]
+
+(;B[df]
+
+C[Black 29 may be better at 'a' to come out into the centre.
+
+];W[fg];B[bh]
+
+C[Black played 31 because he cannot bear to play
+
+the sagari at - A - just to make life, for in that case
+
+White plays at - 1 - or 31 both become sente.
+
+But Black 31 in the game left a weak point too. If white plays
+
+1 to 7, there is a ko. So, Black is now behind .
+
+]LB[ba:A][bf:7][ci:6][ah:5][dh:4][bi:3][cg:2][bg:1]
+
+;W[nq];B[qn];W[pr];B[mq];W[mp];B[lq]
+
+;W[qq];B[np];W[nr];B[mo];W[fj];B[lp];W[og];B[rp];W[qp];B[qo]
+
+;W[rq];B[mg];W[pe];B[qe];W[kg];B[mi];W[ki];B[me];W[oi];B[ke]
+
+C[Black 57 is too deep inside the moyo. It is better to come out with - A -. This move caused Black to lose quickly.
+
+]LB[lj:A]
+
+;W[ld];B[le];W[mj]
+
+C[White 60 is severe.
+
+];B[jd];W[nf];B[kc];W[lc];B[ic];W[jb];B[jg]
+
+;W[bg];B[cg];W[id];B[ie];W[hd];B[kd];W[kb];B[ge];W[gd];B[dh]
+
+C[Black 77 atari is to eliminate the ko. but the centre group is in danger.]
+
+;W[jh];B[ig];W[hh];B[lg];W[mf];B[lj];W[lf];B[kf];W[kh];B[hg]
+
+;W[ff];B[ih];W[ii];B[hi];W[gh];B[hj];W[jk]
+
+C[After White 94, the black group is dead. Black has lost the game already.
+
+];B[he];W[jf];B[kk]
+
+;W[ij];B[hk];W[jl];B[kj];W[jj];B[li];W[fk];B[im];W[jm];B[jn]
+
+;W[lm];B[fi];W[gi];B[ei];W[mk];B[ll];W[kn];B[il];W[ml];B[jo]
+
+;W[nm];B[gj];W[ef];B[bq];W[hq];B[fq];W[fp];B[fr];W[gq];B[ir]
+
+;W[cr];B[er];W[gr];B[br];W[cs];B[es];W[iq];B[jr];W[ho];B[go]
+
+;W[gn];B[fo];W[gp]
+
+C[Black resigned.])
+
+(;B[cg];W[bh];B[ef]))
+
+(;W[be];B[bc];W[ce];B[eb]))
+

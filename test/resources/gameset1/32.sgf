@@ -1,0 +1,150 @@
+(;GM[1]FF[4]SZ[19]ST[1]
+
+PB[Shao Weigang]
+
+PW[Wang Xi]
+
+DT[2003-12-09]
+
+KM[3.75]
+
+RU[Chinese]
+
+RE[W+R]
+
+US[GoGoD]
+
+EV[4th Ricoh Cup]
+
+GC[Commentary by Wang Hongjun 7d]
+
+BR[9d]
+
+WR[4d]
+
+RO[Round 2]
+
+;B[pd];W[dd];B[qp];W[dq];B[do];W[eo];B[en];W[ep]
+
+;B[oq];W[qj];B[cf];W[fc];B[dm];W[co];B[cn];W[bo];B[ql];W[qf]
+
+;B[nc];W[oj];B[qh]
+
+C[Black 21 is to ensure that his following move, 23, will be sente.
+
+];W[pg];B[rd];W[ph];B[bd];W[cc];B[dh];W[ej]
+
+;B[cj];W[qn]
+
+C[The invasion at 30 is severe. Now it is difficult for Black to
+
+make a choice. If he chooses fighting, the result might not be
+
+favourable as White is very thick. If he chooses to sacrifice
+
+the stone, it would be too big.
+
+];B[qi]
+
+C[Black 31 seems a bit unreasonable.
+
+];W[rj];B[pn];W[pm];B[qm];W[po];B[on];W[qo]
+
+;B[pi];W[oi];B[pj];W[pk];B[qk];W[ok];B[rk];W[pp];B[pq];W[qq]
+
+C[After 48,  Black has lost the corner - very big.
+
+]
+
+;B[pl]
+
+C[For Black 49, enclosing White at < A > is more normal.
+
+]LB[no:A]
+
+;W[np];B[mq];W[nq];B[nr];W[mr];B[or];W[lq]
+
+C[It is interesting that White's marked stone has become a ladder
+
+breaker.
+
+]TR[ej]
+
+;B[rp]
+
+C[White cannot block at < A >, or else Black will play 
+
+<B > to < D >.
+
+]LB[no:D][oo:C][op:B][rq:A]
+
+;W[mp]
+
+;B[rq];W[nm]
+
+C[White 60 is a good move. If Black captures the 
+
+stone at < A >, White will play < B >. White will 
+
+build a thick wall if play goes this way. That's no 
+
+good for Black. 
+
+]LB[nn:B][om:A]
+
+;B[nn]
+
+C[Black chooses to fight back.
+
+];W[om];B[mn];W[op];B[kn];W[rg];B[sj];W[rm]
+
+;B[sl];W[re];B[jp]
+
+C[Black 71 is a bit too greedy. 
+
+];W[jo]
+
+C[72 is severe.
+
+];B[ko];W[kp];B[ip];W[lm];B[mm];W[ol]
+
+;B[rn];W[io];B[ho];W[jm];B[km];W[hp]
+
+C[Black has lost too much territory.
+
+];B[im];W[hn];B[go];W[iq]
+
+;B[nh]
+
+C[Since Black is behind on territory, he now attacks the  big white
+
+group.
+
+];W[oh];B[mk];W[gn];B[fn];W[in];B[jl];W[hl]
+
+C[If White allows himself to be enclosed here, Black will build
+
+a huge moyo.
+
+];B[nf];W[mj]
+
+;B[lj];W[li];B[ki];W[lh];B[kj];W[rc];B[qd];W[sd];B[hc];W[lf]
+
+;B[le];W[ke];B[kf]
+
+C[Whether  White can deal with this crosscut successfully will
+
+determine the result.
+
+];W[ld];B[me];W[je];B[jf];W[ie];B[gd];W[lg]
+
+;B[kh];W[lb];B[ng];W[ni];B[qb];W[rb];B[ra];W[qc];B[pb];W[md]
+
+;B[nd];W[oe];B[ne];W[pc];B[oc];W[se];B[mb];W[kc];B[pe];W[qg]
+
+;B[ri];W[of];B[od];W[nk]
+
+C[Black resigned - his group is dead.
+
+])
+

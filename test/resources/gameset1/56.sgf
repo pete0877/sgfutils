@@ -1,0 +1,146 @@
+(;
+GM[1]FF[4]VW[]AP[Many Faces of Go:11.0]
+SZ[19]
+HA[0]
+ST[1]
+PB[Kyung-Sik Kim]
+PW[Jie Li]
+DT[2005-10-29]
+PC[IGS-PandaNet]
+KM[6.5]
+TM[0]
+RE[W+R]
+AN[Jie Li 9d]
+US[Chris Garlock]
+EV[Texas Open]
+GN[2005 Texas Open Round 1 Jie Li 9d (W) vs Kyung-Sik Kim (B)]
+CP[Copyright (c) PANDANET Inc. 2005]
+BR[7d]
+WR[9d]
+RO[1]
+C[2005 Texas Open
+Round 1, Board 1
+October 29, 2005
+Navasota, Texas
+W: Jie Li 9d
+B: Kyung-Sik Kim 7d
+Comments by Jie Li 9d
+Recorded and edited by Chris Garlock
+Published in the October 29, 2005 special Texas Open edition \
+of the American Go E-Journal.]
+;B[dp];W[pp];B[cd];W[pc];B[fc];W[cj];B[ch];W[cn]
+;B[cl];W[en];B[fq];W[bp];B[dk];W[cq];B[iq];W[dj];B[fk];W[ej]
+;B[fm];W[dh];B[dg];W[eg];B[eh];W[fh];B[di];W[ei];B[dh];W[gi]
+C[up to here is joseki]
+
+;B[dq];W[cm];B[cr]
+C[also possible for W to connect under at B8]
+
+(;W[br];B[cp];W[bq];B[dm];W[dn];B[bm];W[bn];B[bk]
+(;W[bj]
+C[a little questionable; should have exchanged G4 for G3 first \
+to make it harder for B to connect]
+;B[fn];W[ef];B[de];W[hk];B[ii]
+C[kind of aggressive; B thinks my thickness is a weak group.]
+
+(;W[hi]
+C[not sure if this is best; hard to decide. maybe J13 is easier]
+;B[ij];W[gk];B[fl]
+(;W[hm]
+C[it's a little difficult here. maybe J9 is better. not sure]
+;B[fj];W[fi];B[il]
+C[very aggressive]
+;W[ik];B[jk];W[jl];B[im]
+(;W[kl]
+C[W is prepared to fight too, but 58 is questionable. should probably \
+atari at L9 first and then connect. I was still on San Diego \
+time so maybe I wasn't really awake yet :)]
+;B[kk]
+(;W[lk]
+C[also questionable. maybe just extending at M8 is better (see \
+var)]
+;B[ki];W[in];B[jm];W[ll]
+C[w still owes a move here]
+;B[jn];W[ig];B[lj];W[jh]
+;B[ji];W[nk]
+C[the game seems about even right now, but W has nice potential \
+on the right side and B's group is a target. But W did not play \
+too well here...]
+;B[kh]
+(;W[kf]
+C[this is too aggressive and complicates the game unnecessarily. \
+just jumping to J15 is good enough. I thought B's center group \
+was weak but B did not agree and resisted strongly.]
+;B[jf]
+C[now things get complicated; w feels like the game is slipping \
+out of control.]
+;W[kg];B[jg];W[ih];B[je]
+C[now it's difficult for both]
+;W[he]
+C[both players have a lot to manage]
+;B[nj]
+C[not sure what to do at this point. too many things going on.]
+;W[mf]
+;B[hf]
+C[B gains here]
+;W[gf];B[hd];W[ge];B[ie];W[gd];B[gc];W[if];B[ic]
+C[B connects back and picks up some territory]
+;W[ok]
+;B[oj];W[pj];B[pi];W[qi];B[ph];W[qj]
+(;B[od]
+C[this is tremendously aggressive! I think Q15 is good enough for \
+B]
+;W[nh]
+(;B[og]
+C[so aggressive; I expected either O11 or P12]
+;W[ng];B[oi]
+C[now there's no turning back for anyone]
+;W[oe]
+C[tesuji]
+;B[pe];W[pd];B[ne];W[of];B[pf]
+;W[nf];B[oc]
+C[B tries his hardest]
+;W[lc]
+C[best place to play]
+;B[pb];W[qb];B[ob];W[qe]
+C[trying to keep up pressure on both B groups]
+;B[qf];W[re];B[rb]
+;W[rc];B[qa];W[qc];B[rf]
+C[now it's a liberty race]
+;W[ra];B[sa];W[pa];B[mb];W[lb]
+C[no choice]
+;B[mc]
+;W[ld]
+C[also no choice]
+;B[oa];W[sc]
+C[all these moves are driven]
+;B[ra];W[sf]
+C[winning tesuji. If B pulls back at S13...(see var)]
+
+(;B[se]
+(;W[sd];B[la];W[rg]
+C[this kills B unconditionally]
+;B[me];W[le];B[lg];W[lf];B[kb];W[mj]
+;B[mi];W[mk]
+C[B can save half his group by playing at N12. But it's gote and \
+he loses half the group.]
+
+(;B[ni];W[mh];B[pg];W[lh];B[li];W[qh];B[kc];W[kj]
+C[B is one liberty behind, so he loses the capturing race.
+
+B resigns.]
+)
+(;B[mh];W[ni];B[mg];W[oq]))
+(;W[rg]))
+(;B[rg];W[rd];B[se];W[nd];B[nc];W[md];B[sg];W[ma];B[na]
+;W[la];B[sf];W[sb]))
+(;B[oh])
+(;B[ni]))
+(;B[pe]))
+(;W[ie]))
+(;W[ll];B[in];W[ki]))
+(;W[kk];B[jj];W[kl]))
+(;W[ik]))
+(;W[ig]))
+(;W[gp];B[gq]))
+(;W[bl]))

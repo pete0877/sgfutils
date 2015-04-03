@@ -1,0 +1,376 @@
+(;GM[1]FF[4]SZ[19]ST[1]
+
+PB[Kitani Minoru]
+
+PW[Go Seigen]
+
+DT[1941-06-04~06]
+
+PC[Hachimangu Shrine, Kamakura]
+
+KM[0]
+
+RE[B+R]
+
+US[GoGoD95]
+
+EV[Kamakura 10-game match]
+
+BR[7d]
+
+WR[7d]
+
+RO[Game 10]
+
+OH[B-W-B];B[pq];W[pn]
+
+C[There is a famous but possibly apocryphal story of how played
+
+out fuseki was in the early Showa period - from 1926 on. Nozawa
+
+Chikucho 7-dan was seen in earnest study over a go board with
+
+another famous player. His students were anxious to know what
+
+he was doing, and so gingerly approached and asked.
+
+
+
+He told them that he had studied almost everything there was
+
+to study about fuseki, but one of the few things left was the
+
+two-space high approach move - the one used by Go - to komoku.
+
+He had a hunch his opponent in the Oteai the next day might play
+
+it, so he was preparing.
+
+
+
+The students thought he was mocking them, as however strong their
+
+teacher was, he couldn't predict what his opponent would do.
+
+We are invited to imagine their astonishment the next day when
+
+White played precisely as Nozawa predicted.
+
+];B[qo];W[qd];B[dc];W[df];B[fd];W[dp]
+
+C[It was conventional wisdom in ten-game matches that the openings
+
+should be varied in each game. That had happened so far in this
+
+match.
+
+
+
+But with a pleasing symmetry in this last game, Go reverts for
+
+the first time to the opening used in Game 1, although in a diferent
+
+order.
+
+
+
+White is therefore once again putting all his emphasis on outside
+
+influence and speed. It is noticeable, however, that Black's
+
+strategy is much more oriented to the centre in this game.
+
+]
+
+;B[oc];W[lc];B[nd]
+
+(;W[ic]
+
+C[White 12 is to frustrate what Black wants - that is for White
+
+play as in variation 'a' >>
+
+]
+
+(;B[pg]
+
+C[Kitani also considered playing as in variation 'a' >>
+
+];W[pc];B[pb];W[qb];B[pd];W[qc];B[pe];W[rf];B[fq]
+
+C[This should have been at - A - to defend the corner, said Kitani.
+
+As it is, he gets embroiled in negotiations in the lower left
+
+corner over who will get sente to play first in the upper right.
+
+]LB[cd:A]
+
+
+
+;W[cm];B[cq]
+
+C[After this, both White and Black will be concentrating on securing
+
+sente.
+
+];W[dq];B[dr]
+
+(;W[cp]
+
+C[If White goes the other way, to >> 'a', it will be Black who
+
+gets sente.
+
+];B[br];W[bq];B[cr];W[cc]
+
+C[White 30 is severe.
+
+];B[cd]
+
+C[Strives for some momentum. - A - instead would be passive.
+
+]LB[cb:A]
+
+;W[dd];B[de];W[ed]
+
+;B[ee];W[ec]
+
+(;B[fc]
+
+C[Black 37 could also simply connect at variation 'a' >> according
+
+to Kitani. 
+
+];W[eb];B[ce];W[fe]
+
+C[Although obvious, the cut at White 40 is severe.
+
+];B[hd];W[ff];B[ef];W[id];B[hf]
+
+;W[eg];B[dg];W[gg];B[hc];W[ie]
+
+C[A mistake. Go rashly played it after just one minute's thought.
+
+It forces Black to connect at - A -, but that makes the later fighting
+
+easier for Black.
+
+]LB[he:A]
+
+;B[he];W[dh];B[cg];W[bc];B[eh]
+
+C[This cut, instead of crawling at - A -, is now only possible because
+
+of the marked stone.
+
+]LB[ch:A]
+
+TR[he]
+
+
+
+;W[fg];B[di];W[jg];B[hg];W[gi]
+
+(;B[hi]
+
+C[Kitani said this could have been at variation 'a' >>
+
+]
+
+(;W[hh]
+
+C[Go spent 31 minutes on this, although the alternative - >> extending
+
+to 'a' - would be patently slack.
+
+];B[ih];W[hj];B[gh];W[fh];B[ei];W[hh];B[ii];W[ig]
+
+C[White starts a ko that so dominates everything on the board that
+
+the only ko threats that really matter are local ones.
+
+
+
+Black has local threats at - A - and - B - that White cannot ignore.
+
+White has none.
+
+
+
+But it would be of no benefit to Black to adopt too simplistic
+
+a view and to take the ko. If he does, White obviously connects
+
+at - C - since he has no suitable ko threats. But this makes a
+
+ko that Black has to win. White is safe and risks nothing, yet
+
+Black's group is in danger. He would then have to save it by
+
+connecting the ko, but this leaves him with awful shape. Worse
+
+- in Kitani's mind - White will have sente.
+
+
+
+Black therefore has to try to win the ko more efficiently.
+
+]LB[if:B][fb:A][fi:C]
+
+
+
+;B[fi];W[gj]
+
+C[Necessary. If White connects the ko, Black plays here.
+
+];B[gh];W[oe]
+
+C[This is the best Go can do as a ko threat.
+
+];B[hh]
+
+C[Kitani said he could have continued fighting the ko by using
+
+threats at - A - and - B -, but as he had Black 77 up his sleeve,
+
+he decided to connect at once. This secures close on 30 points
+
+of territory.
+
+]LB[fb:B][db:A]
+
+;W[od]
+
+C[Certainly powerful, but Black can defend his group.
+
+];B[ld]
+
+C[Black dodges nimbly, aiming to cut at - A -.
+
+]LB[if:A]
+
+;W[mc];B[nc];W[md]
+
+;B[ne];W[of];B[ng];W[po];B[pf];W[qp];B[qq];W[ro];B[mq];W[ph]
+
+;B[oh];W[qh];B[oj];W[cj];B[ci];W[bi];B[ek];W[jp];B[rq];W[pk]
+
+;B[pj]
+
+C[Once the safety of his group in the upper right was established,
+
+Kitani said that he had the thicker game. He meant that, although
+
+territories were not yet defined, his groups were more solid
+
+and likely to turn into territory.
+
+
+
+He set to work with Black 101 to prove this.
+
+];W[qj];B[qk];W[ql];B[hq];W[io];B[qg];W[rg];B[qi];W[rk]
+
+;B[rh]
+
+C[Having lopped off two stones, Black clearly has the better prospects.
+
+];W[gp];B[gq];W[dj];B[fk];W[hl];B[me];W[le];B[lf];W[ke]
+
+;B[bh]
+
+C[Despite his favourable prospects, Kitani spent 59 minutes on
+
+Black 121, pondering the order of the endgame moves and confirming
+
+he was ahead.
+
+];W[bp]
+
+C[Go in turn spent 51 minutes on this, trying to engineer an upset.
+
+];B[bk]
+
+C[Black 123 - 37 minutes - caused unnecessary complications, said
+
+Kitani. Cutting at - A - was good enough.
+
+]LB[bj:A]
+
+;W[bj];B[cl];W[dl];B[bm];W[dk];B[cn]
+
+(;W[dn]
+
+C[White will be scuppered if he tries variation 'a' >>
+
+];B[dm];W[em];B[en];W[cm];B[db];W[cb];B[dm];W[eq]
+
+;B[do];W[er];B[fp]
+
+C[Go resigned, but with the match score 6-4 in his favour and Kitani
+
+still at B-W-B handicap.
+
+
+
+Total times used not available.
+
+])
+
+(;W[dm];B[dn];W[en];B[eo]))
+
+(;W[gj];B[hj]
+
+C[Not immediately, perhaps, but after a little preparation such
+
+as this...
+
+];W[gk];B[kd];W[kc];B[ib];W[jb];B[jf]
+
+C[... Black can exploit the bad shape of White's knight move.
+
+]))
+
+(;B[hh];W[ei];B[ch];W[ji];B[hi];W[ej];B[ck];W[gj];B[hj]))
+
+(;B[ce];W[db]
+
+C[This capture is important.
+
+];B[ge];W[ff];B[fe]
+
+(;W[gc]
+
+C[This could also be at 'a', in which case >>
+
+])
+
+(;W[di];B[fb];W[eb];B[hb]
+
+C[Black makes shape
+
+])))
+
+(;W[er];B[cr];W[eq];B[bo];W[co];B[cp];W[cn]))
+
+(;B[qe];W[re];B[pd]
+
+C[Nice tesuji.
+
+];W[qf];B[pe]))
+
+(;W[qg];B[jc];W[le];B[pf];W[qf];B[qc];W[rc];B[pd];W[qe]
+
+;B[qb]
+
+C[Black's marked stone beautifully combines a pincer and an extension.
+
+Although White can run away with the pincered stone, Black has
+
+settled himself ideally with the fixed pattern in the corner,
+
+and now White is the only one with a weak running group.
+
+]))
+
